@@ -3,7 +3,7 @@
 ##Alkuun pääseminen
 
 ###NÄPPÄIMISTÖASETTELU SUOMEKSI
-```Shell
+```sh
 setxkbmap fi
 ```
 ###LIITÄ MYY JÄRJESTELMÄÄSI
