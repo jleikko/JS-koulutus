@@ -3,7 +3,7 @@
 ##Alkuun pääseminen
 
 ##### BOOTTAA XUBUNTU-DVD:LTÄ (14.04 LTS)
-> Ei tarvitse asentaa, valitse, että kokeilet vaan Xubuntua
+> ei tarvitse asentaa - valitse, että kokeilet vaan Xubuntua
 
 ##### KÄYNNISTÄ TERMINAL EMULATOR
 `ctrl`+`alt`+`t`
@@ -35,6 +35,12 @@ sudo apt-get install sublime-text
 ```
 > voit käynnistää Sublime Text Editorin komentoriviltä komennolla `subl`
 
+#####ASENNA CHROMIUM-SELAIN
+```sh
+sudo apt-get install chromium-browser
+```
+> voit käynnistää selaimen komennolla `chromium-browser`
+
 #####ASENNA VERSIONHALLINTATYÖKALU
 ```sh
 sudo apt-get install git
@@ -53,6 +59,12 @@ cd git
 git clone https://github.com/jleikko/JS-koulutus.git
 ```
 
+##### REKISTERÖIDY GITHUBIIN
+```sh
+chromium-browser http://github.com &
+```
+> ellet ole jo rekisteröitynyt
+
 #####ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ
 ```sh
 #asenna node.js runtime
@@ -68,6 +80,10 @@ sudo apt-get install nodejs-legacy
 ```sh
 #suorita globaali asennus Yeoman-työkalulle node package managerin avulla
 sudo npm install -g yo
+#asenna webbisovelluspohjageneraattori
+npm install -g generator-webapp
+#asenna angular-webbisovelluspohjageneraattori
+npm install -g generator-angular
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
