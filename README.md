@@ -2,6 +2,11 @@
 
 ##Alkuun pääseminen
 
+######BOOTTAA XUBUNTU-DVD:LTÄ (14.04 LTS)
+
+######KÄYNNISTÄ TERMINAL EMULATOR
+`ctrl`+`alt`+`t´
+
 #####NÄPPÄIMISTÖASETTELU SUOMEKSI
 ```sh
 setxkbmap fi
