@@ -42,15 +42,18 @@ cd git
 git clone https://github.com/jleikko/JS-koulutus.git
 ```
 
-#####ASENNA NODEJS
+#####ASENNA NODEJS JA NODE PACKAGE MANAGER
 ```sh
 sudo apt-get install nodejs
+sudo apt-get install npm
+#tuki ohjelmille, jotka ovat riippuvaisia noden binääristä
+sudo apt-get install nodejs-legacy
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
 #####ASENNA NODEJS PACKAGE MANAGER
 ```
-sudo apt-get install npm
+
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
