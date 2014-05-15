@@ -65,7 +65,7 @@ chromium-browser http://github.com &
 ```
 > ellet ole jo rekisteröitynyt
 
-#####ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ
+#####ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ (EHKÄ JOUDUTAAN KUITENKIN LATAAMAAN ZIPPINÄ NETISTÄ)
 ```sh
 #asenna node.js runtime
 sudo apt-get install nodejs
@@ -87,3 +87,5 @@ npm install -g generator-angular
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
+###LUO WEBBIPROJEKTIPOHJA
+```sh
