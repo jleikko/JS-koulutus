@@ -3,13 +3,15 @@
 ##Alkuun pääseminen
 
 ###NÄPPÄIMISTÖASETTELU SUOMEKSI
-```
+```Shell
 setxkbmap fi
 ```
 ###LIITÄ MYY JÄRJESTELMÄÄSI
+```
 sudo mkdir /mnt/myy
 sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
-	syötä salasana myylle
+```
+syötä salasana myylle
 
 ###PÄIVITÄ PAKETTIENHALLINTAJÄRJESTELMÄN TIETOKANTA
 sudo apt-get update
