@@ -5,7 +5,7 @@
 ##### BOOTTAA XUBUNTU-DVD:LTÄ (14.04 LTS)
 > ei tarvitse asentaa - valitse, että kokeilet vaan Xubuntua
 
-##### KÄYNNISTÄ TERMINAL EMULATOR
+##### KÄYNNISTÄ TERMINAALI
 `ctrl`+`alt`+`t`
 
 #####NÄPPÄIMISTÖASETTELU SUOMEKSI
