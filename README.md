@@ -2,7 +2,7 @@
 
 ##Alkuun pääseminen
 
-######NÄPPÄIMISTÖASETTELU SUOMEKSI
+#####NÄPPÄIMISTÖASETTELU SUOMEKSI
 ```sh
 setxkbmap fi
 ```
@@ -18,13 +18,13 @@ sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
 sudo apt-get update
 ```
 
-###ASENNA VERSIONHALLINTATYÖKALU
+#####ASENNA VERSIONHALLINTATYÖKALU
 ```sh
 sudo apt-get install git
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
-###KOPIOI KURSSIMATERIAALIT VERSIONHALLINNASTA
+#####KOPIOI KURSSIMATERIAALIT VERSIONHALLINNASTA
 ```sh
 #Siirry työskentelemään myylle
 cd /mnt/myy
@@ -36,13 +36,13 @@ cd git
 git clone https://github.com/jleikko/JS-koulutus.git
 ```
 
-###ASENNA NODEJS
+#####ASENNA NODEJS
 ```sh
 sudo apt-get install nodejs
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
-###ASENNA NODEJS PACKAGE MANAGER
+#####ASENNA NODEJS PACKAGE MANAGER
 ```
 sudo apt-get install npm
 ```
