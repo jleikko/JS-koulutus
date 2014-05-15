@@ -19,10 +19,21 @@ sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
 ```
 > syötä salasana myylle
 
+#####LISÄÄ PAKETTIENHALLINTAJÄRJESTELMÄÄN ULKOINEN LÄHDE
+```sh
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+```
+
 #####PÄIVITÄ PAKETTIENHALLINTAJÄRJESTELMÄN TIETOKANTA
 ```sh
 sudo apt-get update
 ```
+
+#####ASENNA TEKSTIEDITORI
+```sh
+sudo apt-get install sublime-text
+```
+> voit käynnistää Sublime Text Editorin komentoriviltä komennolla `subl`
 
 #####ASENNA VERSIONHALLINTATYÖKALU
 ```sh
