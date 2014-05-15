@@ -2,9 +2,6 @@
 
 ##Alkuun pääseminen
 
-* auto-gen TOC:
-{:toc}
-
 ##### BOOTTAA XUBUNTU-DVD:LTÄ (14.04 LTS)
 > Ei tarvitse asentaa, valitse, että kokeilet vaan Xubuntua
 
