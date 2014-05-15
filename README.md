@@ -2,11 +2,11 @@
 
 ##Alkuun pääseminen
 
-###NÄPPÄIMISTÖASETTELU SUOMEKSI
+####NÄPPÄIMISTÖASETTELU SUOMEKSI
 ```sh
 setxkbmap fi
 ```
-###LIITÄ MYY JÄRJESTELMÄÄSI
+#####LIITÄ MYY JÄRJESTELMÄÄSI
 ```sh
 sudo mkdir /mnt/myy
 sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
