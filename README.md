@@ -87,7 +87,7 @@ npm install -g generator-angular
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
-###LUO ANGULAR-PROJEKTIPOHJA (EI TOIMI VÄLTTÄMÄTTÄ KUNNOLLA)
+#####LUO ANGULAR-PROJEKTIPOHJA (EI TOIMI VÄLTTÄMÄTTÄ KUNNOLLA)
 ```sh
 #korjaa tiedoston oikeudet kuntoon
 sudo chown xubuntu:xubuntu /home/yourusername/.config/configstore/update-notifier-yo.yml
