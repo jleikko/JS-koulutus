@@ -57,7 +57,6 @@ sudo apt-get install nodejs-legacy
 ```sh
 #suorita globaali asennus Yeoman-työkalulle node package managerin avulla
 sudo npm install -g yo
-
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
