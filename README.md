@@ -76,7 +76,7 @@ sudo apt-get install nodejs-legacy
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
-#####ASENNA RAKENNUSTYÖKALU YEOMAN
+#####ASENNA RAKENNUSTYÖKALU YEOMAN (EI TOIMI VÄLTTÄMÄTTÄ KUNNOLLA)
 ```sh
 #suorita globaali asennus Yeoman-työkalulle node package managerin avulla
 sudo npm install -g yo
@@ -87,5 +87,19 @@ npm install -g generator-angular
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
-###LUO WEBBIPROJEKTIPOHJA
+###LUO ANGULAR-PROJEKTIPOHJA (EI TOIMI VÄLTTÄMÄTTÄ KUNNOLLA)
 ```sh
+#korjaa tiedoston oikeudet kuntoon
+sudo chown xubuntu:xubuntu /home/yourusername/.config/configstore/update-notifier-yo.yml
+#luo hakemisto harjoituksia varten
+mkdir JS-harjoitukset
+#siirry hakemistoon
+cd JS-harjoitukset
+#luo hakemisto tälle tehtävälle
+mkdir t4
+#siirry hakemistoon
+cd t4
+#luo projektipohja
+yo angular
+```
+
