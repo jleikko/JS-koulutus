@@ -42,17 +42,21 @@ cd git
 git clone https://github.com/jleikko/JS-koulutus.git
 ```
 
-#####ASENNA NODEJS JA NODE PACKAGE MANAGER
+#####ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ
 ```sh
+#asenna node.js runtime
 sudo apt-get install nodejs
+#asenna node package manager
 sudo apt-get install npm
-#tuki ohjelmille, jotka ovat riippuvaisia noden binääristä
+#asenna vielä tuki ohjelmille, jotka ovat riippuvaisia noden binääristä
 sudo apt-get install nodejs-legacy
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
-#####ASENNA NODEJS PACKAGE MANAGER
-```
+#####ASENNA RAKENNUSTYÖKALU YEOMAN
+```sh
+#suorita globaali asennus Yeoman-työkalulle node package managerin avulla
+sudo npm install -g yo
 
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
