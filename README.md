@@ -2,16 +2,16 @@
 
 ##Alkuun pääseminen
 
-* BOOTTAA XUBUNTU-DVD:LTÄ (14.04 LTS)
+##### BOOTTAA XUBUNTU-DVD:LTÄ (14.04 LTS)
 
 * KÄYNNISTÄ TERMINAL EMULATOR
 `ctrl`+`alt`+`t`
 
-####NÄPPÄIMISTÖASETTELU SUOMEKSI
+#####NÄPPÄIMISTÖASETTELU SUOMEKSI
 ```sh
 setxkbmap fi
 ```
-#####LIITÄ MYY JÄRJESTELMÄÄSI
+#####LIITÄ MYY TIEDOSTOJÄRJESTELMÄÄSI
 ```sh
 sudo mkdir /mnt/myy
 sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
