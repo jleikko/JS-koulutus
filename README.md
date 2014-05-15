@@ -2,7 +2,7 @@
 
 ##Alkuun pääseminen
 
-####NÄPPÄIMISTÖASETTELU SUOMEKSI
+######NÄPPÄIMISTÖASETTELU SUOMEKSI
 ```sh
 setxkbmap fi
 ```
@@ -13,7 +13,7 @@ sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
 ```
 > syötä salasana myylle
 
-###PÄIVITÄ PAKETTIENHALLINTAJÄRJESTELMÄN TIETOKANTA
+#####PÄIVITÄ PAKETTIENHALLINTAJÄRJESTELMÄN TIETOKANTA
 ```sh
 sudo apt-get update
 ```
