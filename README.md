@@ -22,7 +22,7 @@ sudo apt-get update
 ```sh
 sudo apt-get install git
 ```
-> Kyllä voit käyttää lisää levytilaa: Y
+> Kyllä, voit käyttää lisää levytilaa: Y
 
 ###KOPIOI KURSSIMATERIAALIT VERSIONHALLINNASTA
 ```sh
@@ -40,11 +40,11 @@ git clone https://github.com/jleikko/JS-koulutus.git
 ```sh
 sudo apt-get install nodejs
 ```
-> Kyllä voit käyttää lisää levytilaa: Y
+> Kyllä, voit käyttää lisää levytilaa: Y
 
 ###ASENNA NODEJS PACKAGE MANAGER
 ```
 sudo apt-get install npm
 ```
-> Kyllä voit käyttää lisää levytilaa: Y
+> Kyllä, voit käyttää lisää levytilaa: Y
 
