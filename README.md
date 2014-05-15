@@ -3,9 +3,9 @@
 ##Alkuun pääseminen
 
 ###NÄPPÄIMISTÖASETTELU SUOMEKSI
-´´´
+```
 setxkbmap fi
-´´´
+```
 ###LIITÄ MYY JÄRJESTELMÄÄSI
 sudo mkdir /mnt/myy
 sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
