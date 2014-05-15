@@ -7,11 +7,11 @@
 setxkbmap fi
 ```
 ###LIITÄ MYY JÄRJESTELMÄÄSI
-```
+```sh
 sudo mkdir /mnt/myy
 sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
 ```
-syötä salasana myylle
+> syötä salasana myylle
 
 ###PÄIVITÄ PAKETTIENHALLINTAJÄRJESTELMÄN TIETOKANTA
 sudo apt-get update
