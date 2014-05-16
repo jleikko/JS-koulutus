@@ -38,7 +38,10 @@ sudo apt-get install sublime-text
 
 #####ASENNA CHROMIUM-SELAIN
 ```sh
+#asenna selain pakettienhallintajärjestelmän kautta
 sudo apt-get install chromium-browser
+#vaihda chromium oletusselaimeksi
+sudo update-alternatives --config x-www-browser
 ```
 > voit käynnistää uuden selaimen komennolla `chromium-browser`
 
@@ -60,12 +63,6 @@ cd git
 git clone https://github.com/jleikko/JS-koulutus.git
 ```
 
-##### REKISTERÖIDY GITHUBIIN
-```sh
-chromium-browser http://github.com &
-```
-> ellet ole jo rekisteröitynyt
-
 #####ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ (EHKÄ JOUDUTAAN KUITENKIN LATAAMAAN ZIPPINÄ NETISTÄ)
 ```sh
 #asenna node.js runtime
@@ -75,7 +72,6 @@ sudo apt-get install npm
 #asenna vielä tuki ohjelmille, jotka ovat riippuvaisia noden binääristä
 sudo apt-get install nodejs-legacy
 ```
-> Kyllä, voit käyttää lisää levytilaa: Y
 
 #####ASENNA RAKENNUSTYÖKALU YEOMAN (EI TOIMI VÄLTTÄMÄTTÄ KUNNOLLA)
 ```sh
@@ -83,24 +79,47 @@ sudo apt-get install nodejs-legacy
 sudo npm install -g yo
 #asenna webbisovelluspohjageneraattori
 sudo npm install -g generator-webapp
-#asenna angular-webbisovelluspohjageneraattori
-sudo npm install -g generator-angular
 ```
-> Kyllä, voit käyttää lisää levytilaa: Y
 
-#####LUO ANGULAR-PROJEKTIPOHJA (EI TOIMI VÄLTTÄMÄTTÄ KUNNOLLA)
+
+#####REKISTERÖIDY GITHUBIIN
 ```sh
-#korjaa tiedoston oikeudet kuntoon
-sudo chown xubuntu:xubuntu /home/yourusername/.config/configstore/update-notifier-yo.yml
-#luo hakemisto harjoituksia varten
-mkdir JS-harjoitukset
-#siirry hakemistoon
-cd JS-harjoitukset
-#luo hakemisto tälle tehtävälle
-mkdir t4
-#siirry hakemistoon
-cd t4
-#luo projektipohja
-yo angular
+chromium-browser http://github.com &
+```
+> ellet ole jo rekisteröitynyt
+
+#####LUO UUSI REPOSITORY GITHUBIIN TEHTÄVIÄSI VARTEN
+Anna repositoryn nimeksi *JS-harjoitukseni*
+
+
+#####LATAA REPOSTASI PAIKALLINEN KOPIO
+```sh
+git clone http://github.com/<kayttajatunnuksesi>/JS-harjoitukseni
 ```
 
+#####LUO HARJOITUKSIA VARTEN ETUSIVU JA HAKEMISTORAKENNE
+```sh
+cd JS-harjoitukseni
+echo '#JS-harkat\nJavaScript-koulutuksen harjoituksia' > README.md
+mkdir t1
+touch t1/.gitkeep
+mkdir t2
+touch t2/.gitkeep
+mkdir t3
+touch t3/.gitkeep
+```
+
+#####LISÄÄ LUOMASI TIEDOSTOT COMMITOITAVAKSI STAGING-TILAAN
+```sh
+git add .
+```
+
+#####COMMITOI MUUTOKSET LOKAALISTI
+```sh
+git commit -m 'hakemistorakenne luotu'
+```
+
+#####LÄHETÄ MUUTOKSET PALVELIMELLE
+```sh
+git push origin master
+```
