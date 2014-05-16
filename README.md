@@ -40,7 +40,7 @@ sudo apt-get install sublime-text
 ```sh
 sudo apt-get install chromium-browser
 ```
-> voit käynnistää selaimen komennolla `chromium-browser`
+> voit käynnistää uuden selaimen komennolla `chromium-browser`
 
 #####ASENNA VERSIONHALLINTATYÖKALU
 ```sh
