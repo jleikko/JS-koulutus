@@ -82,9 +82,9 @@ sudo apt-get install nodejs-legacy
 #suorita globaali asennus Yeoman-työkalulle node package managerin avulla
 sudo npm install -g yo
 #asenna webbisovelluspohjageneraattori
-npm install -g generator-webapp
+sudo npm install -g generator-webapp
 #asenna angular-webbisovelluspohjageneraattori
-npm install -g generator-angular
+sudo npm install -g generator-angular
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
