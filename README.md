@@ -15,7 +15,8 @@ setxkbmap fi
 #####LIITÄ MYY TIEDOSTOJÄRJESTELMÄÄSI
 ```sh
 sudo mkdir /mnt/myy
-sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
+# VANHA: sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
+sudo mount -t cifs -o username=h00916,uid=xubuntu,gid=xubuntu //myy/h00916 /mnt/myy
 ```
 > syötä salasana myylle
 
