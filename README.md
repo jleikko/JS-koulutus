@@ -2,6 +2,8 @@
 
 ##Alkuun pääseminen
 
+##KÄYTTÖJÄRJESTELMÄ KUNTOON
+
 ##### BOOTTAA XUBUNTU-DVD:LTÄ (14.04 LTS)
 > ei tarvitse asentaa - valitse, että kokeilet vaan Xubuntua
 
@@ -12,13 +14,6 @@
 ```sh
 setxkbmap fi
 ```
-#####LIITÄ MYY TIEDOSTOJÄRJESTELMÄÄSI
-```sh
-sudo mkdir /mnt/myy
-# VANHA: sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
-sudo mount -t cifs -o username=h00916,uid=xubuntu,gid=xubuntu //myy/h00916 /mnt/myy
-```
-> syötä salasana myylle
 
 #####LISÄÄ PAKETTIENHALLINTAJÄRJESTELMÄÄN ULKOINEN LÄHDE
 ```sh
@@ -29,6 +24,8 @@ sudo add-apt-repository ppa:webupd8team/sublime-text-2
 ```sh
 sudo apt-get update
 ```
+
+##TYÖKALUT KUNTOON
 
 #####ASENNA TEKSTIEDITORI
 ```sh
@@ -51,6 +48,16 @@ sudo apt-get install git
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
+##TYÖSKENTELYTILA KUNTOON
+
+#####LIITÄ MYY TIEDOSTOJÄRJESTELMÄÄSI
+```sh
+sudo mkdir /mnt/myy
+# VANHA: sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
+sudo mount -t cifs -o username=h00916,uid=xubuntu,gid=xubuntu //myy/h00916 /mnt/myy
+```
+> syötä salasana myylle
+
 #####KOPIOI KURSSIMATERIAALIT VERSIONHALLINNASTA
 ```sh
 #Siirry työskentelemään myylle
@@ -62,25 +69,6 @@ cd git
 #kloonaa koulutusmateriaali verkosta uuteen alihakemistoon
 git clone https://github.com/jleikko/JS-koulutus.git
 ```
-
-#####ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ (EHKÄ JOUDUTAAN KUITENKIN LATAAMAAN ZIPPINÄ NETISTÄ)
-```sh
-#asenna node.js runtime
-sudo apt-get install nodejs
-#asenna node package manager
-sudo apt-get install npm
-#asenna vielä tuki ohjelmille, jotka ovat riippuvaisia noden binääristä
-sudo apt-get install nodejs-legacy
-```
-
-#####ASENNA RAKENNUSTYÖKALU YEOMAN (EI TOIMI VÄLTTÄMÄTTÄ KUNNOLLA)
-```sh
-#suorita globaali asennus Yeoman-työkalulle node package managerin avulla
-sudo npm install -g yo
-#asenna webbisovelluspohjageneraattori
-sudo npm install -g generator-webapp
-```
-
 
 #####REKISTERÖIDY GITHUBIIN
 ```sh
@@ -94,7 +82,7 @@ Anna repositoryn nimeksi *JS-harjoitukseni*
 
 #####LATAA REPOSTASI PAIKALLINEN KOPIO
 ```sh
-git clone http://github.com/<kayttajatunnuksesi>/JS-harjoitukseni
+git clone https://github.com/<kayttajatunnuksesi>/JS-harjoitukseni.git
 ```
 
 #####LUO HARJOITUKSIA VARTEN ETUSIVU JA HAKEMISTORAKENNE
@@ -122,4 +110,24 @@ git commit -m 'hakemistorakenne luotu'
 #####LÄHETÄ MUUTOKSET PALVELIMELLE
 ```sh
 git push origin master
+```
+
+##WORKFLOW KUNTOON
+
+#####ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ (EHKÄ JOUDUTAAN KUITENKIN LATAAMAAN ZIPPINÄ NETISTÄ)
+```sh
+#asenna node.js runtime
+sudo apt-get install nodejs
+#asenna node package manager
+sudo apt-get install npm
+#asenna vielä tuki ohjelmille, jotka ovat riippuvaisia noden binääristä
+sudo apt-get install nodejs-legacy
+```
+
+#####ASENNA RAKENNUSTYÖKALU YEOMAN (EI TOIMI VÄLTTÄMÄTTÄ KUNNOLLA)
+```sh
+#suorita globaali asennus Yeoman-työkalulle node package managerin avulla
+sudo npm install -g yo
+#asenna webbisovelluspohjageneraattori
+sudo npm install -g generator-webapp
 ```
