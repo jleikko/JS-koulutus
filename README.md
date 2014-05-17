@@ -1,22 +1,19 @@
-# HH Sisäinen JavaScript-koulutus
+# HAAGA-HELIA - Sisäinen JavaScript-koulutus
 
-##1. päivä
-###Aamupäivä
-1. tehtävä: [Käyttöjärjestelmä kuntoon](aiheet/os.md)
-1. tehtävä: [Työkalut kuntoon](aiheet/tools.md)
-1. [Työtila kuntoon](aiheet/workspace.md)
+##Teoria
+[Prezi](http://prezi.com/aeuqrx1-ajd3/javascript/)
 
-###Iltapäivä
-1. [JavaScript perusteet](aiheet/basics.md)
-1. [JavaScript oliot](aiheet/objects.md)
-1. [JSON](aiheet/json.md)
-1. [JQuery](aiheet/jquery.md)
-1. [REST](aiheet/rest.md)
+##Tehtävät
+Tehtävä 1: [Käyttöjärjestelmä kuntoon](aiheet/os.md)
+Tehtävä 2: [Työkalut kuntoon](aiheet/tools.md)
+Tehtävä 3: [Työtila kuntoon](aiheet/workspace.md)
+Tehtävä 4: [JavaScript perusteet](aiheet/basics.md)
+Tehtävä 5: [JavaScript oliot](aiheet/objects.md)
+Tehtävä 6: [JSON](aiheet/json.md)
+Tehtävä 7: [JQuery](aiheet/jquery.md)
+Tehtävä 8: [REST](aiheet/rest.md)
 
-##2. päivä
-###Aamupäivä
-1. [Workflow kuntoon](aiheet/workflow.md)
-1. [Firebase](aiheet/firebase.md)
+Tehtävä 9: [Workflow kuntoon](aiheet/workflow.md)
+Tehtävä 10: [Firebase](aiheet/firebase.md)
 
-###Iltapäivä
-1. [AngularJS](aiheet/angularjs.md)
+Tehtävä 11: [AngularJS](aiheet/angularjs.md)
