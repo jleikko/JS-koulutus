@@ -2,8 +2,8 @@
 
 ##1. päivä
 ###Aamupäivä
-1. [Käyttöjärjestelmä kuntoon](aiheet/os.md)
-1. [Työkalut kuntoon](aiheet/tools.md)
+1. tehtävä: [Käyttöjärjestelmä kuntoon](aiheet/os.md)
+1. tehtävä: [Työkalut kuntoon](aiheet/tools.md)
 1. [Työtila kuntoon](aiheet/workspace.md)
 
 ###Iltapäivä
