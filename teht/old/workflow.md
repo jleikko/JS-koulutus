@@ -11,7 +11,7 @@ sudo npm install -g generator-webapp
 #####LUO WEBBIPROJEKTIPOHJA
 ```sh
 #siirry oikeaan hakemistoon
-cd t3
+cd /mnt/myy/git/t3
 #generoi sivustollesi runko
 yo webapp
 #asenna riippuvuus boweriin
