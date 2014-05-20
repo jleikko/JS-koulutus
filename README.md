@@ -16,10 +16,10 @@ Tehtävä 5: [JQuery](teht/t05-jquery.md)
 
 Tehtävä 6: [Ajax](teht/t06-ajax.md)
 
-Tehtävä 7: [Node.js](teht/t07-nodejs.md)
+Tehtävä 7: [Node.js](teht/t07-node.md)
 
 Tehtävä 8: [Workflow](teht/t08-workflow.md)
 
 Tehtävä 9: [Firebase](teht/t09-firebase.md)
 
-Tehtävä 10: [AngularJS](teht/t10-angularjs.md)
+Tehtävä 10: [AngularJS](teht/t10-angular.md)
