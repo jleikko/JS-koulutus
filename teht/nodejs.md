@@ -1,6 +1,7 @@
 ##NODE.JS
 
-#####ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ
+
+#####A-KOHTA: ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ
 ```sh
 #asenna node.js runtime
 sudo apt-get install nodejs
@@ -9,3 +10,4 @@ sudo apt-get install npm
 #asenna vielä nodejs:ään tuki ohjelmille, jotka ovat riippuvaisia noden binääristä
 sudo apt-get install nodejs-legacy
 ```
+####B-KOHTA: TEE PALVELIN NODEJS:N WEBBISIVUJEN MUKAISESTI

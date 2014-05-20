@@ -1,0 +1,1 @@
+tee codecademyssä jquery kurssi

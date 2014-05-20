@@ -1,6 +1,9 @@
 ##AngularJS
 
-#####Do it
+#####A-kohta
+tee angular tutoriaali
+
+#####B-kohta
 ```sh
 #Siirry oikeaan hakemistoon
 cd ../t4
