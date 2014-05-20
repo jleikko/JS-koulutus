@@ -36,7 +36,8 @@ sudo apt-get install sublime-text
 #asenna selain pakettienhallintajärjestelmän kautta
 sudo apt-get install chromium-browser
 #vaihda chromium oletusselaimeksi
-sudo update-alternatives --config x-www-browser
+#VANHA: sudo update-alternatives --config x-www-browser
+xdg-settings set default-web-browser chromium.desktop
 ```
 > voit käynnistää uuden selaimen komennolla `chromium-browser`
 
