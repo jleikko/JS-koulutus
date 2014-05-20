@@ -10,7 +10,7 @@ Tehtävä 2: [JavaScriptiä webbisivulla](teht/t02-try.md)
 
 Tehtävä 3: [JavaScript vs. Java](teht/t03-diff.md)
 
-Tehtävä 4: [Oliot JavaScriptissä](teht/t04-obj.md)
+Tehtävä 4: [Oliot](teht/t04-obj.md)
 
 Tehtävä 5: [JQuery](teht/t05-jquery.md)
 
