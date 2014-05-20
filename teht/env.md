@@ -43,13 +43,20 @@ sudo apt-get install git
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
+#####ASENNA SSH FILESYSTEM
+```sh
+sudo apt-get install sshfs
+```
+
 ##TYÖTILA KUNTOON
 
 #####LIITÄ MYY TIEDOSTOJÄRJESTELMÄÄSI
 ```sh
 sudo mkdir /mnt/myy
+sudo chown xubuntu:xubuntu /mnt/myy
+sshfs -o idmap=user kayttajatunnuksesi@myy.haaga-helia.fi:/homeh/kayttajatunnuksesi /mnt/myy
 # VANHA: sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
-sudo mount -t cifs -o username=h00916,uid=xubuntu,gid=xubuntu //myy/h00916 /mnt/myy
+# VANHA: sudo mount -t cifs -o username=h00916,uid=xubuntu,gid=xubuntu //myy/h00916 /mnt/myy
 ```
 > syötä salasana myylle
 
