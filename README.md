@@ -20,6 +20,6 @@ Tehtävä 7: [Node.js](teht/nodejs.md)
 
 Tehtävä 8: [Workflow](teht/workflow.md)
 
-Tehtävä 9: [Firebase](aiheet/firebase.md)
+Tehtävä 9: [Firebase](teht/firebase.md)
 
-Tehtävä 10: [AngularJS](aiheet/angularjs.md)
+Tehtävä 10: [AngularJS](teht/angularjs.md)
