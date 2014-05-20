@@ -43,6 +43,8 @@ sudo update-alternatives --config x-www-browser
 #####ASENNA VERSIONHALLINTATYÖKALU
 ```sh
 sudo apt-get install git
+git config --global user.name "<Oma Nimi>"
+git config --global user.email <oma_sahkoposti>
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
