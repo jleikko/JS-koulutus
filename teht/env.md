@@ -3,6 +3,9 @@
 ##### BOOTTAA XUBUNTU-DVD:LTÄ (14.04 LTS)
 > ei tarvitse asentaa - valitse, että kokeilet vaan Xubuntua
 
+##### AVAA SELAIN OHJESIVULLE
+http://github.com/jleikko
+
 ##### KÄYNNISTÄ TERMINAALI
 `ctrl`+`alt`+`t`
 
@@ -74,6 +77,7 @@ git clone https://github.com/jleikko/JS-koulutus.git
 
 #####REKISTERÖIDY GITHUBIIN
 ```sh
+#TODO: PRINTIT POIS
 chromium-browser http://github.com &
 ```
 > ellet ole jo rekisteröitynyt
@@ -84,7 +88,7 @@ Anna repositoryn nimeksi *JS-harjoitukseni*
 
 #####LATAA REPOSTASI PAIKALLINEN KOPIO
 ```sh
-git clone https://github.com/<kayttajatunnuksesi>/JS-harjoitukseni.git
+git clone https://github.com/<githubin_kayttajatunnuksesi>/JS-harjoitukseni.git
 ```
 
 #####LUO HARJOITUKSIA VARTEN ETUSIVU JA HAKEMISTORAKENNE
@@ -101,7 +105,7 @@ touch t3/.gitkeep
 
 #####LISÄÄ LUOMASI TIEDOSTOT COMMITOITAVAKSI STAGING-TILAAN
 ```sh
-git add .
+git add -A
 ```
 
 #####COMMITOI MUUTOKSET LOKAALISTI
