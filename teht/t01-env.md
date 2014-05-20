@@ -5,8 +5,7 @@
 
 ##### AVAA SELAIN OHJESIVULLE
 https://github.com/jleikko/JS-koulutus/blob/master/teht/t01-env.md
-> Selain (Firefox) löytyy ruudun vasemmasta yläkulmasta.
-> Mikäli sinulla on jenkkinäppis, "kauttaviivan" saat tavuviivan paikalta ja tavuviivan saat plus-merkin paikalta.
+> Firefox löytyy ruudun vasemmasta yläkulmasta. Mikäli sinulla on jenkkinäppis, "kauttaviivan" saat tavuviivan paikalta ja tavuviivan saat plus-merkin paikalta.
 
 ##### KÄYNNISTÄ TERMINAALI
 `ctrl`+`alt`+`t`
