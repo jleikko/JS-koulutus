@@ -4,7 +4,7 @@
 > ei tarvitse asentaa - valitse, että kokeilet vaan Xubuntua
 
 ##### AVAA SELAIN OHJESIVULLE
-(http://github.com/jleikko/JS-koulutus/teht/t01-env.md)
+http://github.com/jleikko/JS-koulutus/teht/t01-env.md
 
 ##### KÄYNNISTÄ TERMINAALI
 `ctrl`+`alt`+`t`
