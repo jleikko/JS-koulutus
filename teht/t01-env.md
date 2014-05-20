@@ -71,12 +71,12 @@ git clone https://github.com/jleikko/JS-koulutus.git
 #####REKISTERÖIDY GITHUBIIN
 ```sh
 #TODO: PRINTIT POIS
-chromium-browser http://github.com &
+chromium-browser http://github.com >& /dev/null &
 ```
 > ellet ole jo rekisteröitynyt
 
 #####LUO UUSI REPOSITORY GITHUBIIN TEHTÄVIÄSI VARTEN
-Anna repositoryn nimeksi *JS-harjoitukseni*
+Anna repositoryn nimeksi 'JS-harjoitukseni'
 
 
 #####LATAA REPOSTASI PAIKALLINEN KOPIO
