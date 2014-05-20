@@ -3,6 +3,7 @@
 #####ASENNA RAKENNUSTYÖKALU YEOMAN (EI TOIMI VÄLTTÄMÄTTÄ KUNNOLLA)
 ```sh
 #suorita globaali asennus Yeoman-työkalulle node package managerin avulla
+cd /mnt
 sudo npm install -g yo
 #asenna webbisovelluspohjageneraattori
 sudo npm install -g generator-webapp
