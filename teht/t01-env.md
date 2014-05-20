@@ -5,6 +5,8 @@
 
 ##### AVAA SELAIN OHJESIVULLE
 https://github.com/jleikko/JS-koulutus/blob/master/teht/t01-env.md
+> Selain (Firefox) löytyy ruudun vasemmasta yläkulmasta.
+> Mikäli sinulla on jenkkinäppis, "kauttaviivan" saat tavuviivan paikalta ja tavuviivan saat plus-merkin paikalta.
 
 ##### KÄYNNISTÄ TERMINAALI
 `ctrl`+`alt`+`t`
@@ -49,27 +51,15 @@ git config --global user.email <oma_sahkoposti>
 ```
 > Kyllä, voit käyttää lisää levytilaa: Y
 
-#####ASENNA SSH FILESYSTEM
+#####ASENNA SSH FILE SYSTEM
 ```sh
 sudo apt-get install sshfs
 ```
 
 ##TYÖTILA KUNTOON
 
-#####LIITÄ MYY TIEDOSTOJÄRJESTELMÄÄSI
-```sh
-sudo mkdir /mnt/myy
-sudo chown xubuntu:xubuntu /mnt/myy
-sshfs -o idmap=user kayttajatunnuksesi@myy.haaga-helia.fi:/homeh/kayttajatunnuksesi /mnt/myy
-# VANHA: sudo mount.cifs //myy/<omatunnus> -o username=<omatunnus>
-# VANHA: sudo mount -t cifs -o username=h00916,uid=xubuntu,gid=xubuntu //myy/h00916 /mnt/myy
-```
-> syötä salasana myylle
-
 #####KOPIOI KURSSIMATERIAALIT VERSIONHALLINNASTA
 ```sh
-#Siirry työskentelemään myylle
-cd /mnt/myy
 #luo versionhallintaa varten oma hakemisto
 mkdir git
 #mene äsken luodun kansion sisään
@@ -98,17 +88,19 @@ git clone https://github.com/<githubin_kayttajatunnuksesi>/JS-harjoitukseni.git
 ```sh
 cd JS-harjoitukseni
 echo '#JS-harkat\nJavaScript-koulutuksen harjoituksia' > README.md
-mkdir t1
-touch t1/.gitkeep
-mkdir t2
-touch t2/.gitkeep
-mkdir t3
-touch t3/.gitkeep
+mkdir t02-try
+touch t02-try/.gitkeep
+mkdir t06-ajax
+touch t06-ajax/.gitkeep
+mkdir t07-node
+touch t07-node/.gitkeep
+mkdir t08-workflow
+touch t08-workflow/.gitkeep
 ```
 
 #####LISÄÄ LUOMASI TIEDOSTOT COMMITOITAVAKSI STAGING-TILAAN
 ```sh
-git add -A
+git add .
 ```
 
 #####COMMITOI MUUTOKSET LOKAALISTI
