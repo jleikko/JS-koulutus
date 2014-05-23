@@ -1,19 +1,15 @@
 ##KÄYTTÖJÄRJESTELMÄ KUNTOON
 
 ##### BOOTTAA XUBUNTU-DVD:LTÄ (14.04 LTS)
-> ei tarvitse asentaa - valitse, että kokeilet vaan Xubuntua
+* Valitse kieleksi Suomi
+* Ei tarvitse asentaa - valitse, että kokeilet vaan Xubuntua
 
 ##### AVAA SELAIN OHJESIVULLE
 https://github.com/jleikko/JS-koulutus/blob/master/teht/t01-env.md
-> Firefox löytyy ruudun vasemmasta yläkulmasta. Mikäli sinulla on jenkkinäppis, "kauttaviivan" saat tavuviivan paikalta ja tavuviivan saat plus-merkin paikalta.
+> Web-selain löytyy ruudun vasemmasta yläkulmasta.
 
 ##### KÄYNNISTÄ TERMINAALI
 `ctrl`+`alt`+`t`
-
-#####NÄPPÄIMISTÖASETTELU SUOMEKSI
-```sh
-setxkbmap fi
-```
 
 #####LISÄÄ PAKETTIENHALLINTAJÄRJESTELMÄÄN ULKOINEN LÄHDE
 ```sh
