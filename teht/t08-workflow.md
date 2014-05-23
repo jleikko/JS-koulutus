@@ -23,7 +23,7 @@ grunt
 #####AVAA TIEDOSTOT MUOKATTAVAKSI
 ```sh
 avaa sublime-text editori oikeassa hakemistossa
-subl &> /dev/null &
+subl . &> /dev/null &
 ```
 
 #####TESTAA WEBBIPROJEKTIA
