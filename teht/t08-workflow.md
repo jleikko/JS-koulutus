@@ -11,7 +11,7 @@ sudo npm install -g generator-webapp
 #####LUO WEBBIPROJEKTIPOHJA
 ```sh
 #siirry oikeaan hakemistoon
-cd ~/git/JS-harjoitukseni/t8
+cd ~/git/JS-harjoitukseni/t07-workflow
 #generoi sivustollesi runko
 yo webapp
 #asenna riippuvuus boweriin
