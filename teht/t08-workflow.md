@@ -2,8 +2,8 @@
 
 #####ASENNA RAKENNUSTYÖKALU YEOMAN (EI TOIMI VÄLTTÄMÄTTÄ KUNNOLLA)
 ```sh
-#suorita globaali asennus Yeoman-työkalulle node package managerin avulla
-cd /mnt
+#suorita globaali asennus Yeoman-työkalulle node package managerin avulla <http://yeoman.io/>
+cd
 sudo npm install -g yo
 #asenna webbisovelluspohjageneraattori
 sudo npm install -g generator-webapp
@@ -11,7 +11,7 @@ sudo npm install -g generator-webapp
 #####LUO WEBBIPROJEKTIPOHJA
 ```sh
 #siirry oikeaan hakemistoon
-cd /mnt/myy/git/JS-harjoitukseni/t3
+cd ~/git/JS-harjoitukseni/t8
 #generoi sivustollesi runko
 yo webapp
 #asenna riippuvuus boweriin
