@@ -59,13 +59,12 @@ git clone https://github.com/jleikko/JS-koulutus.git
 > Luo git-hakemisto omaan kotihakemistoosi. Terminaali käynnistyy oletuksena omaan kotihakemistoosi, ja voit palata kotihakemistoosi aina komennolla 'cd'
 
 #####REKISTERÖIDY GITHUBIIN
-http://github.com
-
+https://github.com/join
 > ellet ole jo rekisteröitynyt
 
 #####LUO UUSI REPOSITORY GITHUBIIN TEHTÄVIÄSI VARTEN
 Anna repositoryn nimeksi 'JS-harjoitukseni'
-
+> uusi repository voidaan luoda vihreästä napista rekisteröitymisen jälkeen
 
 #####LATAA REPOSTASI PAIKALLINEN KOPIO
 ```sh
@@ -78,12 +77,12 @@ cd JS-harjoitukseni
 echo '#JS-harkat\nJavaScript-koulutuksen harjoituksia' > README.md
 mkdir t02-try
 touch t02-try/.gitkeep
-mkdir t06-ajax
-touch t06-ajax/.gitkeep
-mkdir t07-node
-touch t07-node/.gitkeep
-mkdir t08-workflow
-touch t08-workflow/.gitkeep
+mkdir t05-ajax
+touch t05-ajax/.gitkeep
+mkdir t06-node
+touch t06-node/.gitkeep
+mkdir t07-workflow
+touch t07-workflow/.gitkeep
 ```
 
 #####LISÄÄ LUOMASI TIEDOSTOT COMMITOITAVAKSI STAGING-TILAAN
