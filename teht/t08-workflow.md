@@ -1,6 +1,6 @@
 ##WORKFLOW
 
-#####ASENNA RAKENNUSTYÖKALU YEOMAN <http://yeoman.io/>
+#####ASENNA RAKENNUSTYÖKALU YEOMAN (http://yeoman.io/)
 ```sh
 #suorita globaali asennus Yeoman-työkalulle node package managerin avulla
 cd
