@@ -1,8 +1,8 @@
 ##WORKFLOW
 
-#####ASENNA RAKENNUSTYÖKALU YEOMAN (EI TOIMI VÄLTTÄMÄTTÄ KUNNOLLA)
+#####ASENNA RAKENNUSTYÖKALU YEOMAN <http://yeoman.io/>
 ```sh
-#suorita globaali asennus Yeoman-työkalulle node package managerin avulla <http://yeoman.io/>
+#suorita globaali asennus Yeoman-työkalulle node package managerin avulla
 cd
 sudo npm install -g yo
 #asenna webbisovelluspohjageneraattori
