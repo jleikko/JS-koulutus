@@ -97,5 +97,5 @@ git commit -m 'hakemistorakenne luotu'
 
 #####LÄHETÄ MUUTOKSET PALVELIMELLE
 ```sh
-git push origin master
+git push -u origin master
 ```
