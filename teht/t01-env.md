@@ -9,7 +9,8 @@ https://github.com/jleikko/JS-koulutus/blob/master/teht/t01-env.md
 > Web-selain löytyy ruudun vasemmasta yläkulmasta.
 
 ##### KÄYNNISTÄ TERMINAALI
-`ctrl`+`alt`+`t`
+`ctrl`+`alt`+`T`
+> Terminaaliin voi liittää leikepöydältä tekstiä komennolla `ctrl`+`shift`+`V`
 
 #####LISÄÄ PAKETTIENHALLINTAJÄRJESTELMÄÄN ULKOINEN LÄHDE
 ```sh
@@ -33,22 +34,15 @@ sudo apt-get install sublime-text
 #asenna selain pakettienhallintajärjestelmän kautta
 sudo apt-get install chromium-browser
 #vaihda chromium oletusselaimeksi
-#VANHA: sudo update-alternatives --config x-www-browser
 xdg-settings set default-web-browser chromium.desktop
 ```
-> voit käynnistää uuden selaimen komennolla `chromium-browser`
+> voit käynnistää uuden selaimen komennolla `chromium-browser`. Mikäli haluat, ettei selainprosessi varaa komentoriviä lokitustaan varten, voit käynnistää selaimen komennolla 'chromium-browser >& /dev/null &'
 
 #####ASENNA VERSIONHALLINTATYÖKALU
 ```sh
 sudo apt-get install git
 git config --global user.name "<Oma Nimi>"
-git config --global user.email <oma_sahkoposti>
-```
-> Kyllä, voit käyttää lisää levytilaa: Y
-
-#####ASENNA SSH FILE SYSTEM
-```sh
-sudo apt-get install sshfs
+git config --global user.email "<oma_sahkoposti>"
 ```
 
 ##TYÖTILA KUNTOON
@@ -62,12 +56,11 @@ cd git
 #kloonaa koulutusmateriaali verkosta uuteen alihakemistoon
 git clone https://github.com/jleikko/JS-koulutus.git
 ```
+> Luo git-hakemisto omaan kotihakemistoosi. Terminaali käynnistyy oletuksena omaan kotihakemistoosi, ja voit palata kotihakemistoosi aina komennolla 'cd'
 
 #####REKISTERÖIDY GITHUBIIN
-```sh
-#TODO: PRINTIT POIS
-chromium-browser http://github.com >& /dev/null &
-```
+http://github.com
+
 > ellet ole jo rekisteröitynyt
 
 #####LUO UUSI REPOSITORY GITHUBIIN TEHTÄVIÄSI VARTEN
