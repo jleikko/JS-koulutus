@@ -36,7 +36,7 @@ sudo apt-get install chromium-browser
 #vaihda chromium oletusselaimeksi
 xdg-settings set default-web-browser chromium.desktop
 ```
-> voit käynnistää uuden selaimen komennolla `chromium-browser`. Mikäli haluat, ettei selainprosessi varaa komentoriviä lokitustaan varten, voit käynnistää selaimen komennolla 'chromium-browser >& /dev/null &'
+> voit käynnistää uuden selaimen komennolla `chromium-browser`. Mikäli haluat, ettei selainprosessi varaa komentoriviä lokitustaan varten, voit käynnistää selaimen komennolla `chromium-browser >& /dev/null &`
 
 #####ASENNA VERSIONHALLINTATYÖKALU
 ```sh
@@ -56,7 +56,7 @@ cd git
 #kloonaa koulutusmateriaali verkosta uuteen alihakemistoon
 git clone https://github.com/jleikko/JS-koulutus.git
 ```
-> Luo git-hakemisto omaan kotihakemistoosi. Terminaali käynnistyy oletuksena omaan kotihakemistoosi, ja voit palata kotihakemistoosi aina komennolla 'cd'
+> Luo git-hakemisto omaan kotihakemistoosi. Terminaali käynnistyy oletuksena omaan kotihakemistoosi, ja voit palata kotihakemistoosi aina komennolla `cd`
 
 #####REKISTERÖIDY GITHUBIIN
 https://github.com/join
