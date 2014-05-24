@@ -40,7 +40,9 @@ xdg-settings set default-web-browser chromium.desktop
 
 #####ASENNA VERSIONHALLINTATYÖKALU
 ```sh
+#asenna git client pakettienhallintajärjestelmän kautta
 sudo apt-get install git
+#konfiguroi git clienttiin oma nimesi ja sähköpostiosoitteesi
 git config --global user.name "<Oma Nimi>"
 git config --global user.email "<oma_sahkoposti>"
 ```
@@ -63,7 +65,7 @@ https://github.com/join
 > ellet ole jo rekisteröitynyt
 
 #####LUO UUSI REPOSITORY GITHUBIIN TEHTÄVIÄSI VARTEN
-Anna repositoryn nimeksi `JS-harjoitukseni`
+Anna repositoryn nimeksi "JS-harjoitukseni"
 > uusi repository voidaan luoda vihreästä napista rekisteröitymisen jälkeen
 
 #####LATAA REPOSTASI PAIKALLINEN KOPIO
