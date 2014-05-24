@@ -4,9 +4,9 @@
 ```sh
 #suorita globaali asennus Yeoman-työkalulle node package managerin avulla
 cd
-sudo npm install -g yo
+npm install -g yo
 #asenna webbisovelluspohjageneraattori
-sudo npm install -g generator-webapp
+npm install -g generator-webapp
 ```
 #####LUO WEBBIPROJEKTIPOHJA
 ```sh
@@ -14,10 +14,6 @@ sudo npm install -g generator-webapp
 cd ~/git/JS-harjoitukseni/t07-workflow
 #generoi sivustollesi runko
 yo webapp
-#asenna riippuvuus boweriin
-bower install underscore
-#buildaa asennusvalmis sovellus
-grunt
 ```
 
 #####AVAA TIEDOSTOT MUOKATTAVAKSI
