@@ -11,7 +11,7 @@ sudo apt-get install npm
 sudo apt-get install nodejs-legacy
 #korjaa pari asetusta, jotta npm-komentoon ei tarvita pääkäyttäjää
 npm config set prefix ~/npm
-echo "\n\nexport PATH=$HOME/npm/bin:$PATH" >> ~/.bashrc
+echo -e "\n\nexport PATH=\$HOME/npm/bin:\$PATH" >> ~/.bashrc
 source ~/.bashrc
 ```
 ####B-KOHTA: TEE PALVELIN NODEJS:N WEBBISIVUJEN MUKAISESTI
