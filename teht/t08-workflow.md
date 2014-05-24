@@ -18,7 +18,7 @@ yo webapp
 
 #####AVAA TIEDOSTOT MUOKATTAVAKSI
 ```sh
-avaa sublime-text editori oikeassa hakemistossa
+#avaa sublime-text editori oikeassa hakemistossa estäen konsolilokitus
 subl . &> /dev/null &
 ```
 
