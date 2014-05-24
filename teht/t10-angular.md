@@ -1,7 +1,7 @@
 ##AngularJS
 
 #####A-kohta
-tee angular tutoriaali
+tee angular tutoriaali osoitteessa https://docs.angularjs.org/tutorial
 
 #####B-kohta
 ```sh

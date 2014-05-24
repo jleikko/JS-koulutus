@@ -1,1 +1,1 @@
-opettele tämä tekniikka ja keksi tehtävä tai tutoriaali
+tee läpi 5 min firebase tutoriaali
