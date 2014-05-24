@@ -63,7 +63,7 @@ https://github.com/join
 > ellet ole jo rekisteröitynyt
 
 #####LUO UUSI REPOSITORY GITHUBIIN TEHTÄVIÄSI VARTEN
-Anna repositoryn nimeksi 'JS-harjoitukseni'
+Anna repositoryn nimeksi `JS-harjoitukseni`
 > uusi repository voidaan luoda vihreästä napista rekisteröitymisen jälkeen
 
 #####LATAA REPOSTASI PAIKALLINEN KOPIO
