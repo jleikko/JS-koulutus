@@ -8,7 +8,7 @@ chromium-browser ~/git/JS-koulutus/teht/t06-ajax-material/index.html &> /dev/nul
 
 Tutki miten sovellus toimii ja miten se on rakennettu.
 
-##### Tee lokaaliin repoosi kansioon "t06-ajax" uusi sovellus. Commitoi ja pushaa aktiivisesti GitHubiin.
+##### Tee JS-harjoitukseni-repon kansioon "t06-ajax" uusi sovellus. Commitoi ja pushaa aktiivisesti GitHubiin.
 
 ###### Tehtävänanto
 
