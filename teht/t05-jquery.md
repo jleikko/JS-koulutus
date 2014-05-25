@@ -1,7 +1,7 @@
 ## JQuery
 
 1. Rekisteröidy Codecademyyn
-  http://www.codecademy.com/register/sign_up
+>http://www.codecademy.com/register/sign_up
 
 2. Tee Codecademyssä JQuery-kurssi.
-  http://www.codecademy.com/tracks/jquery
+>http://www.codecademy.com/tracks/jquery
