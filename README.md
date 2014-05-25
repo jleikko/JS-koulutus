@@ -8,7 +8,7 @@ Tehtävä 1: [Ympäristö kuntoon](teht/t01-env.md)
 
 Tehtävä 2: [Ohjelmointia JavaScriptillä](teht/t02-try.md)
 
-Tehtävä 3: [Funktiot ja funktionaalisuus](teht/t03-func.md)
+Tehtävä 3: [Funktiot JavaScriptissä](teht/t03-func.md)
 
 Tehtävä 4: [Oliot ja periytyminen](teht/t04-obj.md)
 
