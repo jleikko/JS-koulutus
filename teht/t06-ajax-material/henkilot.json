@@ -1,0 +1,47 @@
+[
+    {
+        "id": 32,
+        "etunimi": "Matti",
+        "sukunimi": "Meikäläinen",
+        "sahkoposti": "matti@meikkis.com",
+        "lahiosoite": "Puistotie 1",
+        "postinumero": "00330",
+        "postitoimipaikka": "Helsinki"
+    },
+    {
+        "id": 33,
+        "etunimi": "Mikko",
+        "sukunimi": "Mallikas",
+        "sahkoposti": "mikkomallikas47@hotmail.com",
+        "lahiosoite": "Kivakatu 3",
+        "postinumero": "96100",
+        "postitoimipaikka": "Rovaniemi"
+    },
+    {
+        "id": 34,
+        "etunimi": "Outi",
+        "sukunimi": "Opiskelija",
+        "sahkoposti": "outin.boxi@gmail.com",
+        "lahiosoite": "Hoaspolku 4",
+        "postinumero": "00520",
+        "postitoimipaikka": "Helsinki"
+    },
+    {
+        "id": 35,
+        "etunimi": "Tiina",
+        "sukunimi": "Tikolainen",
+        "sahkoposti": "tinde@tikotiko.fi",
+        "lahiosoite": "Eepostie 7",
+        "postinumero": "02100",
+        "postitoimipaikka": "Espoo"
+    },
+    {
+        "id": 36,
+        "etunimi": "oletusetunimi",
+        "sukunimi": "okok",
+        "sahkoposti": "asd@asd.com",
+        "lahiosoite": "asf",
+        "postinumero": "12345",
+        "postitoimipaikka": "espoo"
+    }
+]

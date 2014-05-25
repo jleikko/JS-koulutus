@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nyt koodataan!</title>
+    <style>
+        * {
+            font-family: Helvetica;
+            font-weight: 300;
+        }
+        body {
+            text-align:center;        
+	}
+        #laatikko {
+            border-style: dashed;
+            border-radius: 20px;
+            border-color: #444444;
+            border-width: 2px;
+
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 20px;
+            margin-bottom: 20px;
+
+            width: 100px;
+            height: 100px;
+        }
+        .Keltainen {
+            background-color: yellow;
+        }
+        button {
+            background-color: lightgray;
+            border-style: solid;
+            border-radius: 4px;
+            border-color: #444444;
+            border-width: 1px;
+            padding: 5px;
+        }
+    </style>
+    <script>
+        function keltaiseksi() {
+            var laatikko = document.getElementById("laatikko");
+            laatikko.className = "Keltainen";
+        }
+    </script>
+</head>
+<body>
+<h1>Nyt koodataan!</h1>
+
+<div id="laatikko"></div>
+<button type="button" onclick="keltaiseksi()">Keltaiseksi</button>
+</body>
+</html>
