@@ -76,7 +76,7 @@ git clone https://github.com/<githubin_kayttajatunnuksesi>/JS-harjoitukseni.git
 #####LUO HARJOITUKSIA VARTEN ETUSIVU JA HAKEMISTORAKENNE
 ```sh
 cd JS-harjoitukseni
-echo '#JS-harkat\nJavaScript-koulutuksen harjoituksia' > README.md
+echo '#JavaScript-koulutuksen harjoitukset' > README.md
 mkdir t02-try
 touch t02-try/.gitkeep
 mkdir t03-func
