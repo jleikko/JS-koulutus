@@ -3,7 +3,7 @@
 ##### Avaa esimerkkisovellus
 
 ```sh
-chromium-browser ~/git/JS-koulutus/teht/t06-ajax-material/index.html &> /dev/null
+chromium-browser ~/git/JS-koulutus/teht/t06-ajax-material/index.html &> /dev/null &
 ```
 
 Tutki miten sovellus toimii ja miten se on rakennettu.
