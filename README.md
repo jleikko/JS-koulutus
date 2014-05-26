@@ -27,7 +27,7 @@ Tehtävä 6: [Ajax](teht/t06-ajax.md)
 
 Tehtävä 7: [Node.js](teht/t07-node.md)
 
-Tehtävä 8: [Workflow](teht/t08-workflow.md)
+Tehtävä 8: [Workflow & tools](teht/t08-workflow.md)
 
 Tehtävä 9: [Firebase](teht/t09-firebase.md)
 
