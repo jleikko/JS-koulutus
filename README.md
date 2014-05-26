@@ -1,4 +1,5 @@
-# HAAGA-HELIA - Sisäinen JavaScript-koulutus
+#HAAGA-HELIA
+#JavaScript-koulutus
 
 ![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png)
 
