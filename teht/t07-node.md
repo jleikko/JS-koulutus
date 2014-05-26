@@ -16,7 +16,7 @@ source ~/.bashrc
 ```
 ####B-KOHTA: TEE PALVELIN NODEJS:N WEBBISIVUJEN MUKAISESTI
 
-##### Luo tiedosto miniserver.js
+##### Luo tiedosto miniserver.js ja avaa se muokattavaksi
 ```sh
 cd ~/git/JS-harjoitukseni/t07-node
 subl miniserver.js &> /dev/null &
