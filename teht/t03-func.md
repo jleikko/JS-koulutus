@@ -1,4 +1,4 @@
-## Funktiot JavaScriptissä
+## TEHTÄVÄ 3 - FUNKTIOT JAVASCRIPTISSÄ
 
 
 #### Pohdi seuraavia kysymyksiä itsenäisesti ja hae aiheesta tietoa webistä (10 min)
