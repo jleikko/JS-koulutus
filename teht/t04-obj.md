@@ -1,9 +1,11 @@
 ## Oliot ja periytyminen
 
-##### Jakaannutaan neljän hengen ryhmiin keskustelemaan seuraavista teemoista.
+#### Pohdi seuraavia kysymyksiä itsenäisesti ja hae aiheesta tietoa webistä (10 min)
 
 1. Miten JavaScriptillä voidaan toteuttaa olio-ohjelmointia?
 2. Kuinka periytyminen toteutetaan JavaScriptissä?
+
+#### Jakaannutaan neljän hengen ryhmiin keskustelemaan aiheesta (20 min)
 
 ##### Tallentakaa ryhmänne muistiinpanot yhden jäsenen GitHub-repositoryyn Markdown-muodossa
 
@@ -15,3 +17,5 @@ git push
 ```
 
 ##### Muokatkaa memoa GitHubin selainkäyttöliittymän kautta
+
+#### Esitellään ryhmien muistiinpanot (5 min / ryhmä)
