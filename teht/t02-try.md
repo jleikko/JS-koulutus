@@ -3,14 +3,20 @@
 #####Kopioi tehtäväpohja itsellesi
 
 ```sh
-cp ~git/JS-koulutus/teht/t02-try-material/index.html ~/git/JS-harjoitukseni/t02-try/
+cp ~/git/JS-koulutus/teht/t02-try-material/index.html ~/git/JS-harjoitukseni/t02-try/
 ```
+
+#####Tutustu sovelluksen toiminnallisuuteen
+```sh
+chromium-browser ~/git/JS-harjoitukseni/t02-try/index.html &> /dev/null &
+```
+
 
 #####Avaa HTML-tiedosto editoriin muokattavaksi
 
 ```sh
 subl ~/git/JS-harjoitukseni/t02-try/index.html &> /dev/null &
-````
+```
 
 #####Tee tiedostoon lisäyksiä
 
@@ -28,4 +34,4 @@ cd ~/git/JS-harjoitukseni
 git add .
 git commit -m 'Toka tehtävä tehty'
 git push
-````
+```
