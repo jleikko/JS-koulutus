@@ -23,3 +23,8 @@ grunt serve
 ```
 
 #####4. koodaa sovellus!
+
+```sh
+subl . &> /dev/null &
+#...
+```
