@@ -1,9 +1,16 @@
-##AngularJS
+##TEHTÄVÄ 10 - ANGULARJS
 
-#####A-kohta
-tee angular tutoriaali osoitteessa https://docs.angularjs.org/tutorial
+###A) Käy läpi Angularin tutoriaali
 
-#####B-kohta
+https://docs.angularjs.org/tutorial
+
+###B) Tee oma angular-sovellus
+
+#####Keksi itsellesi oma projektityön aihe
+
+#####Suunnittele mitä ominaisuuksia angularista haluat käyttää
+
+#####Tee tekniset alkuvalmistelut
 ```sh
 #Siirry oikeaan hakemistoon
 cd ../t8-angular
@@ -14,3 +21,5 @@ yo angular
 #näytä sovellus selaimessasi
 grunt serve
 ```
+
+#####koodaa sovellus!
