@@ -13,7 +13,7 @@ https://docs.angularjs.org/tutorial
 #####3. Lisää linkki sovellukseesi tähän
 
 | Tekijä(t) | Sovelluksen nimi | Lähdekoodit | Live Demo |
-|-----------|------------------|--------|
+|-----------|------------------|-------------|-----------|
 | Jaakko Leikko | IdeaBoard | http://github.com/jleikko/IdeaBoard | http://leikko.net/ideaboard |
 
 #####4. Suunnittele mitä ominaisuuksia angularista haluat käyttää
