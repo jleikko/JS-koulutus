@@ -8,9 +8,13 @@ https://docs.angularjs.org/tutorial
 
 #####1. Keksi itsellesi oma projektityön aihe
 
-#####2. Suunnittele mitä ominaisuuksia angularista haluat käyttää
+#####2. Luo sille uusi repository GitHubiin
 
-#####3. Tee tekniset alkuvalmistelut
+#####3. Lisää linkki sovellukseesi tähän
+
+#####4. Suunnittele mitä ominaisuuksia angularista haluat käyttää
+
+#####5. Tee tekniset alkuvalmistelut
 ```sh
 #Siirry oikeaan hakemistoon
 cd ../t8-angular
@@ -22,7 +26,7 @@ yo angular
 grunt serve
 ```
 
-#####4. koodaa sovellus!
+#####6. koodaa sovellus!
 
 ```sh
 subl . &> /dev/null &
