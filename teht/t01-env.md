@@ -23,7 +23,7 @@ sudo apt-get update
 ```
 ##TYÖKALUT KUNTOON
 
-#####ASENNA TEKSTIEDITORI
+#####ASENNA KOODARILLE SOVELTUVA TEKSTIEDITORI
 ```sh
 sudo apt-get install sublime-text
 ```
