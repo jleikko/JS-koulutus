@@ -21,8 +21,12 @@ yo webapp
 subl . &> /dev/null &
 ```
 
-#####TESTAA WEBBIPROJEKTIA
+#####KÄYNNISTÄ PALVELIN
 ```sh
 grunt serve
 ```
-> Jos muokkaat tiedostoja sublimella, muutosten pitäisi näkyä heti tallennuksen jälkeen selaimessa
+
+#####MUOKKAA TIEDOSTON INDEX.HTML SISÄLTÖÄ
+
+Avaa tiedosto app/index.html sublimen editori-ikkonaan. Lisää oma nimesi jumbotron-divin sisään ja tallenna (`ctrl`+`S`).
+> muutosten pitäisi näkyä heti tallennuksen jälkeen selaimessa
