@@ -79,6 +79,10 @@ cd JS-harjoitukseni
 echo '#JS-harkat\nJavaScript-koulutuksen harjoituksia' > README.md
 mkdir t02-try
 touch t02-try/.gitkeep
+mkdir t03-func
+touch t03-func/.gitkeep
+mkdir t04-obj
+touch t04-obj/.gitkeep
 mkdir t05-ajax
 touch t05-ajax/.gitkeep
 mkdir t06-node
