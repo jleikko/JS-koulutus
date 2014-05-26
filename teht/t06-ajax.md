@@ -3,7 +3,11 @@
 ##### Avaa esimerkkisovellus
 
 ```sh
-chromium-browser ~/git/JS-koulutus/teht/t06-ajax-material/index.html &> /dev/null &
+#käynnistä palvelin (sulkeutuu komennolla ctrl-c)
+cd ~/git/JS-koulutus/teht/t06-ajax-materiaali 
+python -m SimpleHTTPServer
+#käynnistä selain
+chromium-browser http://localhost:8000/index.html &> /dev/null &
 ```
 
 Tutki miten sovellus toimii ja miten se on rakennettu.
