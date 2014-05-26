@@ -28,7 +28,7 @@ yo webapp
 bower install firebase
 ```
 
-#####Lisää tiedostoon index.html viittaus kirjastoon
+#####Lisää tiedostoon app/index.html viittaus kirjastoon
 ```js
 <script src="../bower_components/firebase/firebase.js"></script>
 ```
