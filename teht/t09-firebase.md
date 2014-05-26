@@ -1,10 +1,10 @@
 ## Firebase
 
-###Käy Firebasen tutorial läpi
+###A) Käy Firebasen tutorial läpi
 
 https://www.firebase.com/tutorial/#gettingstarted
 
-###Tee oma sovellus, joka käyttää Firebasea
+###B) Tee oma sovellus, joka käyttää Firebasea
 
 ####Rekisteröidy Firebaseen
 
