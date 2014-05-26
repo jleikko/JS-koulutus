@@ -1,5 +1,7 @@
 # HAAGA-HELIA - Sisäinen JavaScript-koulutus
 
+![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png)
+
 ##Teoria
 [Prezi](http://prezi.com/aeuqrx1-ajd3/javascript/)
 
