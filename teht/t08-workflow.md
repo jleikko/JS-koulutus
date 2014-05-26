@@ -31,4 +31,5 @@ grunt serve
 1. Avaa tiedosto `app/index.html` sublimen editori-ikkunaan.
 2. Lisää oma nimesi jumbotron-divin sisään
 3. tallenna (`ctrl`+`S`).
+
 > muutosten pitäisi näkyä heti tallennuksen jälkeen selaimessa
