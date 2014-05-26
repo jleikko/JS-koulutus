@@ -1,35 +1,11 @@
-#![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png) HAAGA-HELIA
+#![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png)HAAGA-HELIA
 ##Sisäinen JavaScript-koulutus 27.5.-28.5.2014
 
-###Koulutus
+##Presis
+[Prezi](http://prezi.com/aeuqrx1-ajd3/javascript/)
 
-![Spices](http://pixabay.com/static/uploads/photo/2014/05/18/11/49/mediterranean-346997_640.jpg)
-
-##### Kouluttaja
-
-Kertoo taustoistaan...
-
-##### Osallistujat
-
-Kertovat osaamistasostaan...
-
-##### Sisältö
-* [Kehitysympäristö](#Kehitysympäristö)
-* [JavaScript](#javascript)
-* Funktionaalisuus
-* Oliot
-* JQuery
-* Ajax
-* Node.js
-* Workflow
-* Firebase
-* AngularJS
-
-###Kehitysympäristö
-
+##Tehtävät
 Tehtävä 1: [Ympäristö kuntoon](teht/t01-env.md)
-
-##JavaScript
 
 Tehtävä 2: [Ohjelmointia JavaScriptillä](teht/t02-try.md)
 
