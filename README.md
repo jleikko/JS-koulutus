@@ -5,18 +5,18 @@
 
 ![Spices](http://pixabay.com/static/uploads/photo/2014/05/18/11/49/mediterranean-346997_640.jpg)
 
-* Kouluttaja
-* Osallistujat
-* Sisältö
-  * JavaScript
-  * Funktionaalisuus
-  * Oliot
-  * JQuery
-  * Ajax
-  * Node.js
-  * Workflow
-  * Firebase
-  * AngularJS
+#### Kouluttaja
+#### Osallistujat
+#### Sisältö
+* JavaScript
+* Funktionaalisuus
+* Oliot
+* JQuery
+* Ajax
+* Node.js
+* Workflow
+* Firebase
+* AngularJS
 
 
 Tehtävä 1: [Ympäristö kuntoon](teht/t01-env.md)
