@@ -1,7 +1,7 @@
 ##NODE.JS
 
 
-####A-KOHTA: ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ
+####ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ
 ```sh
 #asenna node.js runtime
 sudo apt-get install nodejs
@@ -14,7 +14,7 @@ npm config set prefix ~/npm
 echo -e "\n\nexport PATH=\$HOME/npm/bin:\$PATH" >> ~/.bashrc
 source ~/.bashrc
 ```
-####B-KOHTA: TEE PALVELIN NODEJS:N WEBBISIVUJEN MUKAISESTI
+####TEE PALVELIN NODEJS:N WEBBISIVUJEN MUKAISESTI
 
 ##### Luo tiedosto miniserver.js ja avaa se muokattavaksi
 ```sh
