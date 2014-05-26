@@ -15,7 +15,7 @@ Kertovat osaamistasostaan...
 
 ##### Sisältö
 * [Kehitysympäristö](#Kehitysympäristö)
-* [JavaScript](#JavaScript)
+* [JavaScript](#javascript)
 * Funktionaalisuus
 * Oliot
 * JQuery
