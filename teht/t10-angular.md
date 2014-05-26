@@ -12,6 +12,10 @@ https://docs.angularjs.org/tutorial
 
 #####3. Lisää linkki sovellukseesi tähän
 
+| Tekijä(t) | Sovelluksen nimi | Linkki |
+|-----------|------------------|--------|
+| Jaakko Leikko | IdeaBoard | http://github.com/jleikko/IdeaBoard |
+
 #####4. Suunnittele mitä ominaisuuksia angularista haluat käyttää
 
 #####5. Tee tekniset alkuvalmistelut
