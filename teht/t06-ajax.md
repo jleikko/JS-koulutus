@@ -14,8 +14,6 @@ Tutki miten sovellus toimii ja miten se on rakennettu.
 Katso siirtyvien json-olioiden sisältöä Chromiumilla:
 Developer Tools->Network->henkilot.json->Response
 
-##### Tee JS-harjoitukseni-repon kansioon "t06-ajax" uusi sovellus. Commitoi ja pushaa aktiivisesti GitHubiin.
+##### Tee oma sovellus JQueryllä
 
-###### Tehtävänanto
-
-Toteuta säätietosivu käyttäen taustalla palvelua http://openweathermap.org/API. Toteuta cross-domain json-haku jsonp-tekniikalla.
+Toteuta säätietosivu käyttäen taustalla palvelua http://openweathermap.org/API. Toteuta cross-domain json-haku jsonp-tekniikalla. Käytä tallennukseen omaa repositoryasi 'cd ~/git/JS-harjoitukseni/t06-ajax/'. Commitoi ja pushaa GitHubiin aktiivisesti.
