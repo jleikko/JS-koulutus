@@ -1,4 +1,4 @@
-## Oliot ja periytyminen
+## TEHTÄVÄ 4 - OLIOT JA PERIYTYMINEN
 
 #### Pohdi seuraavia kysymyksiä itsenäisesti ja hae aiheesta tietoa webistä (10 min)
 
