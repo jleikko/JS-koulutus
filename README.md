@@ -3,7 +3,7 @@
 
 ###Koulutus
 
-[Spices](http://pixabay.com/static/uploads/photo/2014/05/18/11/49/mediterranean-346997_640.jpg)
+![Spices](http://pixabay.com/static/uploads/photo/2014/05/18/11/49/mediterranean-346997_640.jpg)
 
 * Kouluttaja
 * Osallistujat
