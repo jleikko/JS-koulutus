@@ -1,5 +1,5 @@
 ![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png)
-#HAAGA-HELIAn sisäinen JavaScript-koulutus 27.5.-28.5.2014
+#HAAGA-HELIA - sisäinen JavaScript-koulutus 27.5.-28.5.2014
 
 ##Teoria
 [Prezi](http://prezi.com/aeuqrx1-ajd3/javascript/)
