@@ -1,11 +1,9 @@
 #![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png)HAAGA-HELIA
 ##Sisäinen JavaScript-koulutus 27.5.-28.5.2014
 
-##Presis
+##Presentaatio
 
-![presentaatio](http://pixabay.com/static/uploads/photo/2013/12/06/09/09/presentation-224108_150.jpg)
-
-[Prezi](http://prezi.com/aeuqrx1-ajd3/javascript/)
+[![presentaatio](http://pixabay.com/static/uploads/photo/2013/12/06/09/09/presentation-224108_150.jpg)](http://prezi.com/aeuqrx1-ajd3/javascript/)
 
 
 ##Tehtävät
