@@ -4,10 +4,14 @@
 ##Presis
 
 ![presentaatio](http://pixabay.com/static/uploads/photo/2014/04/07/10/57/man-318584_150.jpg)
+
 [Prezi](http://prezi.com/aeuqrx1-ajd3/javascript/)
 
 
 ##Tehtävät
+
+![koodausta](http://pixabay.com/static/uploads/photo/2013/07/12/14/15/boy-148071_150.png)
+
 Tehtävä 1: [Ympäristö kuntoon](teht/t01-env.md)
 
 Tehtävä 2: [Ohjelmointia JavaScriptillä](teht/t02-try.md)
