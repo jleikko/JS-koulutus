@@ -5,15 +5,15 @@
 
 ![Spices](http://pixabay.com/static/uploads/photo/2014/05/18/11/49/mediterranean-346997_640.jpg)
 
-#### Kouluttaja
+##### Kouluttaja
 
 Kertoo taustoistaan...
 
-#### Osallistujat
+##### Osallistujat
 
 Kertovat osaamistasostaan...
 
-#### Sisältö
+##### Sisältö
 * JavaScript
 * Funktionaalisuus
 * Oliot
@@ -24,7 +24,7 @@ Kertovat osaamistasostaan...
 * Firebase
 * AngularJS
 
-###  Ympäristö
+###Ympäristö
 
 Tehtävä 1: [Ympäristö kuntoon](teht/t01-env.md)
 
