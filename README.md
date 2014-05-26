@@ -3,16 +3,16 @@
 
 ###Koulutus
 
+[Spices](http://pixabay.com/static/uploads/photo/2014/05/18/11/49/mediterranean-346997_640.jpg)
+
 * Kouluttaja
 * Osallistujat
 * Sisältö
- * 1. PÄIVÄ
   * JavaScript
   * Funktionaalisuus
   * Oliot
   * JQuery
   * Ajax
- * 2. PÄIVÄ
   * Node.js
   * Workflow
   * Firebase
