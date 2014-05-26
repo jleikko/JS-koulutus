@@ -1,4 +1,4 @@
-## Ajax
+## TEHTÄVÄ 6 - AJAX
 
 ##### Avaa esimerkkisovellus
 
