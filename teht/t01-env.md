@@ -103,6 +103,8 @@ mkdir t08-workflow
 touch t08-workflow/.gitkeep
 mkdir t09-firebase
 touch t09-firebase/.gitkeep
+mkdir t10-angular
+touch t10-angular/.gitkeep
 
 ```
 
