@@ -9,7 +9,7 @@ cp ~git/JS-koulutus/teht/t02-try-material/index.html ~/git/JS-harjoitukseni/t02-
 #####Avaa HTML-tiedosto editoriin muokattavaksi
 
 ```sh
-subl ~/git/JS-harjoitukseni/t02-try/index.html &> /dev/null
+subl ~/git/JS-harjoitukseni/t02-try/index.html &> /dev/null &
 ````
 
 #####Tee tiedostoon lisäyksiä
