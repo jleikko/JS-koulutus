@@ -25,7 +25,7 @@ subl ~/git/JS-harjoitukseni/t02-try/index.html &> /dev/null &
 3. Tee napeista sellaiset, että jos painat yhtä nappia kaksi kertaa peräkkäin, laatikko muuttu valkoiseksi.
 4. Tee toinen laatikko nappien alapuolelle.
 5. Lisää napit "Kapeaksi" (-> 50px) ja "Leveäksi" (-> 200px) toisen laatikon alapuolelle. Tee näistäkin napeista toggle-tyyppiset.
-6. Lisää sivulle kolmas laatikko, jonka sisällä oleva "Lorem ipsum"-teksti tulee näkyviin, kun käyttäjä vie hiiren kolmannen laatikon päälle.
+6. Lisää sivulle kolmas laatikko, jonka sisällä oleva piiloitettu "Lorem ipsum"-teksti tulee näkyviin, kun käyttäjä vie hiiren kolmannen laatikon päälle ja katoaa taas, kun käyttäjä vie hiiron pois.
 
 #####Tallenna tehtävä GitHubiin
 
