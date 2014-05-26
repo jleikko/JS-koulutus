@@ -6,7 +6,13 @@
 ![Spices](http://pixabay.com/static/uploads/photo/2014/05/18/11/49/mediterranean-346997_640.jpg)
 
 #### Kouluttaja
+
+Kertoo taustoistaan...
+
 #### Osallistujat
+
+Kertovat osaamistasostaan...
+
 #### Sisältö
 * JavaScript
 * Funktionaalisuus
@@ -18,6 +24,7 @@
 * Firebase
 * AngularJS
 
+###  Ympäristö
 
 Tehtävä 1: [Ympäristö kuntoon](teht/t01-env.md)
 
