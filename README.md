@@ -14,7 +14,8 @@ Kertoo taustoistaan...
 Kertovat osaamistasostaan...
 
 ##### Sisältö
-* JavaScript
+* [Kehitysympäristö](#Kehitysympäristö)
+* [JavaScript](#JavaScript)
 * Funktionaalisuus
 * Oliot
 * JQuery
@@ -24,9 +25,11 @@ Kertovat osaamistasostaan...
 * Firebase
 * AngularJS
 
-###Ympäristö
+###Kehitysympäristö
 
 Tehtävä 1: [Ympäristö kuntoon](teht/t01-env.md)
+
+##JavaScript
 
 Tehtävä 2: [Ohjelmointia JavaScriptillä](teht/t02-try.md)
 
