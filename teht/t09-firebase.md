@@ -1,1 +1,5 @@
-tee läpi 5 min firebase tutoriaali
+## Firebase
+
+```sh
+cd ~/git/JS-harjoitukseni/t09-firebase
+```
