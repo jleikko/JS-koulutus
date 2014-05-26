@@ -1,7 +1,7 @@
 ##NODE.JS
 
 
-#####A-KOHTA: ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ
+####A-KOHTA: ASENNA KONEELLESI NODE.JS JAVASCRIPT-YMPÄRISTÖ
 ```sh
 #asenna node.js runtime
 sudo apt-get install nodejs
@@ -16,12 +16,13 @@ source ~/.bashrc
 ```
 ####B-KOHTA: TEE PALVELIN NODEJS:N WEBBISIVUJEN MUKAISESTI
 
-Luo tiedosto miniserver.js
+##### Luo tiedosto miniserver.js
 ```sh
-subl ~/git/JS-harjoitukseni/t07-node/miniserver.js &> /dev/null &
+cd ~/git/JS-harjoitukseni/t07-node
+subl miniserver.js &> /dev/null &
 ```
 
-Tallenna tiedostoon seuraava koodi
+#####Tallenna tiedostoon seuraavanlainen koodi
 ```js
 var http = require('http');
 http.createServer(function (req, res) {
@@ -29,4 +30,14 @@ http.createServer(function (req, res) {
   res.end('Hello World\n');
 }).listen(1337, '127.0.0.1');
 console.log('Server running at http://127.0.0.1:1337/');
+```
+
+#####Käynnistä palvelin
+```sh
+node miniserver.js
+```
+
+#####Kutsu pavelinta selaimella
+```sh
+chromium-browser http://127.0.0.1:1337
 ```
