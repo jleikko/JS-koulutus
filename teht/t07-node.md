@@ -31,13 +31,17 @@ http.createServer(function (req, res) {
 }).listen(1337, '127.0.0.1');
 console.log('Server running at http://127.0.0.1:1337/');
 ```
+#####Kutsu pavelinta selaimella
+```sh
+chromium-browser http://127.0.0.1:1337 &> /dev/null &
+```
 
 #####Käynnistä palvelin
 ```sh
 node miniserver.js
 ```
+> Voit sammuttaa tarvittaessa palvelimen komennolla `ctrl`+`C`
 
-#####Kutsu pavelinta selaimella
-```sh
-chromium-browser http://127.0.0.1:1337
-```
+#####Päivitä selain
+`ctrl`+`R`
+
