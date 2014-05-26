@@ -1,4 +1,4 @@
-## Tehtävä 2 - Ohjelmointia JavaScriptillä
+## TEHTÄVÄ 2 - OHJELMOINTIA JAVASCRIPTILLÄ
 
 #####Kopioi tehtäväpohja itsellesi
 
