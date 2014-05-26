@@ -1,4 +1,4 @@
-## TEHTÄVÄ 2 - OHJELMOINTIA JAVASCRIPTILLÄ
+## TEHTÄVÄ 2 - JAVASCRIPT WEBISSÄ
 
 #####Kopioi tehtäväpohja itsellesi
 
