@@ -2,6 +2,7 @@
 ##Sisäinen JavaScript-koulutus 27.5.-28.5.2014
 
 ##Presis
+![presentaatio](http://pixabay.com/static/uploads/photo/2014/04/07/10/57/man-318584_640.jpg)
 [Prezi](http://prezi.com/aeuqrx1-ajd3/javascript/)
 
 ##Tehtävät
