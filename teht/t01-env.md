@@ -97,6 +97,9 @@ mkdir t07-node
 touch t07-node/.gitkeep
 mkdir t08-workflow
 touch t08-workflow/.gitkeep
+mkdir t08-firebase
+touch t08-firebase/.gitkeep
+
 ```
 
 #####LISÄÄ LUOMASI TIEDOSTOT COMMITOITAVAKSI STAGING-TILAAN
