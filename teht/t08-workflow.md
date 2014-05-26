@@ -2,16 +2,15 @@
 
 #####ASENNA RAKENNUSTYÖKALU YEOMAN (http://yeoman.io/)
 ```sh
+#siirry oikeaan hakemistoon
+cd ~/git/JS-harjoitukseni/t07-workflow
 #suorita globaali asennus Yeoman-työkalulle node package managerin avulla
-cd
 npm install -g yo
 #asenna webbisovelluspohjageneraattori
 npm install -g generator-webapp
 ```
 #####LUO WEBBIPROJEKTIPOHJA
 ```sh
-#siirry oikeaan hakemistoon
-cd ~/git/JS-harjoitukseni/t07-workflow
 #generoi sivustollesi runko
 yo webapp
 ```
