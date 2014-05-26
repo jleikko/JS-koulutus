@@ -14,7 +14,7 @@ npm config set prefix ~/npm
 echo -e "\n\nexport PATH=\$HOME/npm/bin:\$PATH" >> ~/.bashrc
 source ~/.bashrc
 ```
-####TEE PALVELIN NODEJS:N WEBBISIVUJEN MUKAISESTI
+####RAKENNA MINIPALVELIN JA TESTAA SITÄ
 
 ##### Luo tiedosto miniserver.js ja avaa se muokattavaksi
 ```sh
