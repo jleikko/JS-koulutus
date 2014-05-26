@@ -1,4 +1,6 @@
-##A) KÄYTTÖJÄRJESTELMÄ KUNTOON
+## YMPÄRISTÖ KUNTOON
+
+###A) KÄYTTÖJÄRJESTELMÄ KUNTOON
 
 ##### BOOTTAA XUBUNTU-DVD:LTÄ (14.04 LTS)
 * Valitse kieleksi Suomi
@@ -9,7 +11,7 @@ https://github.com/jleikko/JS-koulutus/blob/master/teht/t01-env.md
 > Web-selain löytyy ruudun vasemmasta yläkulmasta.
 
 
-##B) TYÖKALUT KUNTOON
+###B) TYÖKALUT KUNTOON
 
 ##### KÄYNNISTÄ TERMINAALI
 `ctrl`+`alt`+`T`
@@ -57,7 +59,7 @@ git config --global user.name "<Oma Nimi>"
 git config --global user.email "<oma_sahkoposti>"
 ```
 
-##C) TYÖTILA KUNTOON
+###C) TYÖTILA KUNTOON
 
 #####KOPIOI KURSSIMATERIAALIT VERSIONHALLINNASTA
 ```sh
