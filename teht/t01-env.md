@@ -1,4 +1,4 @@
-##KÄYTTÖJÄRJESTELMÄ KUNTOON
+##A) KÄYTTÖJÄRJESTELMÄ KUNTOON
 
 ##### BOOTTAA XUBUNTU-DVD:LTÄ (14.04 LTS)
 * Valitse kieleksi Suomi
@@ -7,6 +7,9 @@
 ##### AVAA SELAIN OHJESIVULLE
 https://github.com/jleikko/JS-koulutus/blob/master/teht/t01-env.md
 > Web-selain löytyy ruudun vasemmasta yläkulmasta.
+
+
+##TYÖKALUT KUNTOON
 
 ##### KÄYNNISTÄ TERMINAALI
 `ctrl`+`alt`+`T`
@@ -21,7 +24,6 @@ sudo add-apt-repository ppa:webupd8team/sublime-text-2
 ```sh
 sudo apt-get update
 ```
-##TYÖKALUT KUNTOON
 
 #####ASENNA KOODARILLE SOVELTUVA TEKSTIEDITORI
 ```sh
@@ -55,7 +57,7 @@ git config --global user.name "<Oma Nimi>"
 git config --global user.email "<oma_sahkoposti>"
 ```
 
-##TYÖTILA KUNTOON
+##C) TYÖTILA KUNTOON
 
 #####KOPIOI KURSSIMATERIAALIT VERSIONHALLINNASTA
 ```sh
