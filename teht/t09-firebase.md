@@ -1,8 +1,10 @@
 ## Firebase
 
-####Käy Firebasen tutorial läpi
+###Käy Firebasen tutorial läpi
 
 https://www.firebase.com/tutorial/#gettingstarted
+
+###Oma Firebase-sovellus
 
 ####Rekisteröidy Firebaseen
 
