@@ -5,7 +5,7 @@
 1. Miten JavaScriptillä voidaan toteuttaa olio-ohjelmointia?
 2. Kuinka periytyminen toteutetaan JavaScriptissä?
 
-#### Jakaannutaan neljän hengen ryhmiin keskustelemaan aiheesta (20 min)
+#### Jakaannutaan kolmen hengen ryhmiin keskustelemaan aiheesta (20 min)
 
 ##### Tallentakaa ryhmänne muistiinpanot yhden jäsenen GitHub-repositoryyn Markdown-muodossa
 
