@@ -11,6 +11,8 @@ chromium-browser http://localhost:8000/index.html &> /dev/null &
 ```
 
 Tutki miten sovellus toimii ja miten se on rakennettu.
+Katso siirtyvien json-olioiden sisältöä Chromiumilla:
+Developer Tools->Network->henkilot.json->Response
 
 ##### Tee JS-harjoitukseni-repon kansioon "t06-ajax" uusi sovellus. Commitoi ja pushaa aktiivisesti GitHubiin.
 
