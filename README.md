@@ -7,11 +7,11 @@
 * Osallistujat
 * Sisältö
 ..* 1. PÄIVÄ
-....*JavaScript
-....*Funktionaalisuus
-....*Oliot
-....*JQuery
-....*Ajax
+..* JavaScript
+..* Funktionaalisuus
+..* Oliot
+..* JQuery
+..* Ajax
 
 
 Tehtävä 1: [Ympäristö kuntoon](teht/t01-env.md)
