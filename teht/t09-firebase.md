@@ -1,6 +1,6 @@
 ## Firebase
 
-###A) Käy Firebasen tutorial läpi
+###A) Käy Firebasen tutoriaali läpi
 
 https://www.firebase.com/tutorial/#gettingstarted
 
