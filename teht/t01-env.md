@@ -38,6 +38,14 @@ xdg-settings set default-web-browser chromium.desktop
 ```
 > voit käynnistää uuden selaimen komennolla `chromium-browser`. Mikäli haluat, ettei selainprosessi varaa komentoriviä lokitustaan varten, voit käynnistää selaimen komennolla `chromium-browser >& /dev/null &`
 
+#####ASENNA FLASH-PLUGIN
+```sh
+#flash-plugin Chromiumiin
+sudo apt-get install pepperflashplugin-nonfree
+#flash-plugin Firefoxiin
+sudo apt-get install flashplugin-installer
+```
+
 #####ASENNA VERSIONHALLINTATYÖKALU
 ```sh
 #asenna git client pakettienhallintajärjestelmän kautta
