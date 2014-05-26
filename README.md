@@ -1,4 +1,4 @@
-#JavaScript-koulutus ![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png)
+#![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png) HAAGA-HELIA JavaScript-koulutus 
 
 ##Teoria
 [Prezi](http://prezi.com/aeuqrx1-ajd3/javascript/)
