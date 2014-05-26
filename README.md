@@ -3,7 +3,7 @@
 
 ##Presis
 
-![presentaatio](http://pixabay.com/static/uploads/photo/2014/04/07/10/57/man-318584_150.jpg)
+![presentaatio](http://pixabay.com/static/uploads/photo/2013/12/06/09/09/presentation-224108_150.jpg)
 
 [Prezi](http://prezi.com/aeuqrx1-ajd3/javascript/)
 
