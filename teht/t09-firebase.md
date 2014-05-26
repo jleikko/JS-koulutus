@@ -33,7 +33,7 @@ bower install firebase
 <script src="../bower_components/firebase/firebase.js"></script>
 ```
 
-#####Rakenna oma chat-sovellus, joka käyttää omaa firebase-kantaa
+#####Rakenna chat-sovellus, joka käyttää omaa firebase-kantaasi
 
 >Kirjoita JavaScript-koodisi tiedoston `scripts/main.js` sisään.
 >Muista commitoida ja pushata GitHubiin aktiivisesti.
