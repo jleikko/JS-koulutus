@@ -37,5 +37,4 @@ bower install firebase
 
 #####Rakenna chat-sovellus, joka käyttää omaa firebase-kantaasi
 
->Kirjoita JavaScript-koodisi tiedoston `scripts/main.js` sisään.
->Muista commitoida ja pushata GitHubiin aktiivisesti.
+Kirjoita JavaScript-koodisi tiedoston `scripts/main.js` sisään. Muista commitoida ja pushata GitHubiin aktiivisesti.
