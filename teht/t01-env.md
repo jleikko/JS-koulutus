@@ -91,12 +91,12 @@ mkdir t03-func
 touch t03-func/.gitkeep
 mkdir t04-obj
 touch t04-obj/.gitkeep
-mkdir t05-ajax
-touch t05-ajax/.gitkeep
-mkdir t06-node
-touch t06-node/.gitkeep
-mkdir t07-workflow
-touch t07-workflow/.gitkeep
+mkdir t06-ajax
+touch t06-ajax/.gitkeep
+mkdir t07-node
+touch t07-node/.gitkeep
+mkdir t08-workflow
+touch t08-workflow/.gitkeep
 ```
 
 #####LISÄÄ LUOMASI TIEDOSTOT COMMITOITAVAKSI STAGING-TILAAN

@@ -2,28 +2,34 @@
 
 #####ASENNA RAKENNUSTYÖKALU YEOMAN (http://yeoman.io/)
 ```sh
+#siirry oikeaan hakemistoon
+cd ~/git/JS-harjoitukseni/t07-workflow
 #suorita globaali asennus Yeoman-työkalulle node package managerin avulla
-cd
 npm install -g yo
 #asenna webbisovelluspohjageneraattori
 npm install -g generator-webapp
 ```
 #####LUO WEBBIPROJEKTIPOHJA
 ```sh
-#siirry oikeaan hakemistoon
-cd ~/git/JS-harjoitukseni/t07-workflow
 #generoi sivustollesi runko
 yo webapp
 ```
 
 #####AVAA TIEDOSTOT MUOKATTAVAKSI
 ```sh
-#avaa sublime-text editori oikeassa hakemistossa estäen konsolilokitus
+#avaa editori
 subl . &> /dev/null &
 ```
 
-#####TESTAA WEBBIPROJEKTIA
+#####KÄYNNISTÄ PALVELIN
 ```sh
 grunt serve
 ```
-> Jos muokkaat tiedostoja sublimella, muutosten pitäisi näkyä heti tallennuksen jälkeen selaimessa
+
+#####MUOKKAA TIEDOSTON INDEX.HTML SISÄLTÖÄ
+
+1. Avaa tiedosto `app/index.html` sublimen editori-ikkunaan.
+2. Lisää oma nimesi jumbotron-divin sisään
+3. tallenna (`ctrl`+`S`).
+
+> muutosten pitäisi näkyä heti tallennuksen jälkeen selaimessa
