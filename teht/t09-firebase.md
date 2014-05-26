@@ -4,7 +4,7 @@
 
 https://www.firebase.com/tutorial/#gettingstarted
 
-###Oma Firebase-sovellus
+###Oman Firebasea käyttävän sovelluksen tekeminen
 
 ####Rekisteröidy Firebaseen
 
