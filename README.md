@@ -6,12 +6,17 @@
 * Kouluttaja
 * Osallistujat
 * Sisältö
-  * 1. PÄIVÄ
+ * 1. PÄIVÄ
   * JavaScript
   * Funktionaalisuus
   * Oliot
   * JQuery
   * Ajax
+ * 2. PÄIVÄ
+  * Node.js
+  * Workflow
+  * Firebase
+  * AngularJS
 
 
 Tehtävä 1: [Ympäristö kuntoon](teht/t01-env.md)
