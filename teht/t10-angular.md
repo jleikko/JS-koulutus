@@ -21,7 +21,7 @@ https://docs.angularjs.org/tutorial
 #####5. Tee tekniset alkuvalmistelut
 ```sh
 #Siirry oikeaan hakemistoon
-cd ../t8-angular
+cd ~/git/JS-harjoitukseni/t10-angular
 #asenna angular-projektipohjageneraattori
 npm install -g generator-angular
 #rakenna angular-projektipohja
