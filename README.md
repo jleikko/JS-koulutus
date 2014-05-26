@@ -1,5 +1,5 @@
-![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png)
-#HAAGA-HELIA - sisäinen JavaScript-koulutus 27.5.-28.5.2014
+#![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png)HAAGA-HELIA
+##Sisäinen JavaScript-koulutus 27.5.-28.5.2014
 
 ##Presis
 [Prezi](http://prezi.com/aeuqrx1-ajd3/javascript/)
