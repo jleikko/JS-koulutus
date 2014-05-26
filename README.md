@@ -1,10 +1,10 @@
-#![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png)HAAGA-HELIA
+#![logo](http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/128px-JavaScript-logo.png) HAAGA-HELIA
 ##Sisäinen JavaScript-koulutus 27.5.-28.5.2014
 
-##Presis
+###Presis
 [Prezi](http://prezi.com/aeuqrx1-ajd3/javascript/)
 
-##Tehtävät
+###Tehtävät
 Tehtävä 1: [Ympäristö kuntoon](teht/t01-env.md)
 
 Tehtävä 2: [Ohjelmointia JavaScriptillä](teht/t02-try.md)
