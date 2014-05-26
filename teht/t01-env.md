@@ -9,7 +9,7 @@ https://github.com/jleikko/JS-koulutus/blob/master/teht/t01-env.md
 > Web-selain löytyy ruudun vasemmasta yläkulmasta.
 
 
-##TYÖKALUT KUNTOON
+##B) TYÖKALUT KUNTOON
 
 ##### KÄYNNISTÄ TERMINAALI
 `ctrl`+`alt`+`T`
