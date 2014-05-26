@@ -6,7 +6,7 @@
 1. Miten Javassa ja JavaScriptissä eroaa funktioiden/metodien käyttö?
 2. Mitä vahvuuksia ja mitä heikkouksia funktionaalisella paradigmalla on olio-ohjelmointiin verrattuna?
 
-#### Jakaannutaan neljän hengen ryhmiin keskustelemaan aiheesta (20 min)
+#### Jakaannutaan kolmen hengen ryhmiin keskustelemaan aiheesta (20 min)
 
 ##### Tallentakaa ryhmänne muistiinpanot yhden jäsenen GitHub-repositoryyn Markdown-muodossa
 
