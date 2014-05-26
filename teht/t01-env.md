@@ -38,6 +38,14 @@ xdg-settings set default-web-browser chromium.desktop
 ```
 > voit käynnistää uuden selaimen komennolla `chromium-browser`. Mikäli haluat, ettei selainprosessi varaa komentoriviä lokitustaan varten, voit käynnistää selaimen komennolla `chromium-browser >& /dev/null &`
 
+#####ASENNA FLASH-PLUGIN
+```sh
+#flash-plugin Chromiumiin
+sudo apt-get install pepperflashplugin-nonfree
+#flash-plugin Firefoxiin
+sudo apt-get install flashplugin-installer
+```
+
 #####ASENNA VERSIONHALLINTATYÖKALU
 ```sh
 #asenna git client pakettienhallintajärjestelmän kautta
@@ -76,9 +84,13 @@ git clone https://github.com/<githubin_kayttajatunnuksesi>/JS-harjoitukseni.git
 #####LUO HARJOITUKSIA VARTEN ETUSIVU JA HAKEMISTORAKENNE
 ```sh
 cd JS-harjoitukseni
-echo '#JS-harkat\nJavaScript-koulutuksen harjoituksia' > README.md
+echo '#JavaScript-koulutuksen harjoitukset' > README.md
 mkdir t02-try
 touch t02-try/.gitkeep
+mkdir t03-func
+touch t03-func/.gitkeep
+mkdir t04-obj
+touch t04-obj/.gitkeep
 mkdir t05-ajax
 touch t05-ajax/.gitkeep
 mkdir t06-node
