@@ -15,7 +15,7 @@ http://prezi.com/aeuqrx1-ajd3/javascript
 
 Tehtävä 1: [Ympäristö kuntoon](teht/t01-env.md)
 
-Tehtävä 2: [Ohjelmointia JavaScriptillä](teht/t02-try.md)
+Tehtävä 2: [JavaScript webissä](teht/t02-try.md)
 
 Tehtävä 3: [Funktiot JavaScriptissä](teht/t03-func.md)
 
