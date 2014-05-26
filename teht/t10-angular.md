@@ -6,11 +6,11 @@ https://docs.angularjs.org/tutorial
 
 ###B) Tee oma angular-sovellus
 
-#####Keksi itsellesi oma projektityön aihe
+#####1. Keksi itsellesi oma projektityön aihe
 
-#####Suunnittele mitä ominaisuuksia angularista haluat käyttää
+#####2. Suunnittele mitä ominaisuuksia angularista haluat käyttää
 
-#####Tee tekniset alkuvalmistelut
+#####3. Tee tekniset alkuvalmistelut
 ```sh
 #Siirry oikeaan hakemistoon
 cd ../t8-angular
@@ -22,4 +22,4 @@ yo angular
 grunt serve
 ```
 
-#####koodaa sovellus!
+#####4. koodaa sovellus!
