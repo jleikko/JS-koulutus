@@ -22,7 +22,7 @@ subl ~/git/JS-harjoitukseni/t02-try/index.html &> /dev/null &
 
 1. Lisää nappi "Punaiseksi" ja tee se toimivaksi.
 2. Lisää nappi "Vihreäksi" ja tee se toimivaksi.
-3. Tee napeista sellaiset, että jos painat yhtä nappia kaksi kertaa peräkkäin, laatikko muuttu valkoiseksi.
+3. Tee napeista sellaiset, että jos painat samaa nappia kaksi kertaa peräkkäin, laatikko muuttu valkoiseksi (toggle).
 4. Tee toinen laatikko nappien alapuolelle.
 5. Lisää napit "Kapeaksi" (-> 50px) ja "Leveäksi" (-> 200px) toisen laatikon alapuolelle. Tee näistäkin napeista toggle-tyyppiset.
 6. Lisää sivulle kolmas laatikko, jonka sisällä oleva piiloitettu "Lorem ipsum"-teksti tulee näkyviin, kun käyttäjä vie hiiren kolmannen laatikon päälle ja katoaa taas, kun käyttäjä vie hiiron pois.
