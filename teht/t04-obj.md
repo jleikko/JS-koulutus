@@ -1,11 +1,11 @@
 ## TEHTÄVÄ 4 - OLIOT JA PERIYTYMINEN
 
-#### Pohdi seuraavia kysymyksiä itsenäisesti ja hae aiheesta tietoa webistä (10 min)
+#### Pohdi seuraavia kysymyksiä itsenäisesti ja hae aiheesta tietoa webistä (5 min)
 
 1. Miten JavaScriptillä voidaan toteuttaa olio-ohjelmointia?
 2. Kuinka periytyminen toteutetaan JavaScriptissä?
 
-#### Jakaannutaan kolmen hengen ryhmiin keskustelemaan aiheesta (20 min)
+#### Jakaannutaan kolmen hengen ryhmiin keskustelemaan aiheesta (15 min)
 
 ##### Tallentakaa ryhmänne muistiinpanot yhden jäsenen GitHub-repositoryyn Markdown-muodossa
 
