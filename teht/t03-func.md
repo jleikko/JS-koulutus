@@ -11,7 +11,8 @@
 ##### Tallentakaa ryhmänne muistiinpanot yhden jäsenen GitHub-repositoryyn Markdown-muodossa
 
 ```sh
-touch ~/git/JS-harjoitukseni/t03-func/memo.md
+cd ~/git/JS-harjoitukseni
+touch t03-func/memo.md
 git add .
 git commit -m 'memo lisätty repoon'
 git push
