@@ -4,7 +4,7 @@
 
 ```sh
 #käynnistä palvelin (sulkeutuu komennolla ctrl-c)
-cd ~/git/JS-koulutus/teht/t06-ajax-materiaali 
+cd ~/git/JS-koulutus/teht/t06-ajax-material
 python -m SimpleHTTPServer
 #käynnistä selain
 chromium-browser http://localhost:8000/index.html &> /dev/null &
