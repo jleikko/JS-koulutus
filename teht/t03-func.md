@@ -1,12 +1,12 @@
 ## TEHTÄVÄ 3 - FUNKTIOT JAVASCRIPTISSÄ
 
 
-#### Pohdi seuraavia kysymyksiä itsenäisesti ja hae aiheesta tietoa webistä (10 min)
+#### Pohdi seuraavia kysymyksiä itsenäisesti ja hae aiheesta tietoa webistä (5 min)
 
 1. Miten Javassa ja JavaScriptissä eroaa funktioiden/metodien käyttö?
 2. Mitä vahvuuksia ja mitä heikkouksia funktionaalisella paradigmalla on olio-ohjelmointiin verrattuna?
 
-#### Jakaannutaan kolmen hengen ryhmiin keskustelemaan aiheesta (20 min)
+#### Jakaannutaan kolmen hengen ryhmiin keskustelemaan aiheesta (15 min)
 
 ##### Tallentakaa ryhmänne muistiinpanot yhden jäsenen GitHub-repositoryyn Markdown-muodossa
 
