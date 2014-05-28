@@ -11,6 +11,7 @@
 
 ```sh
 cd ~/git/JS-harjoitukseni;
+git pull
 touch t04-obj/memo.md
 git add .
 git commit -m 'memo lisätty repoon'
